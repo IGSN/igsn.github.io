@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 _site
 *.sublime-workspace
 Gemfile.lock
-=======
-_site/
 .sass-cache/
->>>>>>> c13c2e3d1930325448e22d65d020c4f73e3d87cf
