@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"name": "Project files",
+			"folder_exclude_patterns": [],
+			"file_exclude_patterns": ["*.sublime-workspace"]
+		}
+	],
+	"settings":
+	{
+		"tab_size": 2
+	},
+}
