@@ -4,6 +4,8 @@ title: Namespaces
 ---
 IGSN uses a hierarchical namespace governance model to ensure uniqueness of registered IGSN.
 
+Please refer to the [list of registered IGSN namespaces](../registered).
+
 ## Namespaces Allocation Procedure ##
 
 The current procedure for namespace allocation was agreed by the IGSN members during the [IGSN telecon on 15 April 2013].
@@ -13,7 +15,7 @@ The current procedure for namespace allocation was agreed by the IGSN members du
   - [Allocating Agents](../agents) may apply for the allocation of namespaces by IGSN e.V. and associate an URI with it.
   - The process of allocating a new namespace is initiated by an Allocating Agent requesting the allocation of a namespace by creating a new ticket in the IGSN Issue Tracker. <https://github.com/IGSN/igsn.github.io/issues>
   - The request is reviewed by the IGSN Manager. Conflicting interests are reviewed and mediated by the Executive Board. Cases the Executive Board cannot resolve are referred to the General Assembly to decide.
-  - The approved namespace is added to the IGSN Metadata Store <https://doidb.wdc-terra.org/igsn/> and advertised on the IGSN technical wiki.
+  - The approved namespace is added to the IGSN Metadata Store <https://doidb.wdc-terra.org/igsn/> and [advertised on the IGSN technical website](../registered).
   - Allocating Agents may extend their allocated namespaces into sub-namespaces by adding characters or numbers. The allocated namespaces and corresponding sub-namespaces are governed by the respective Allocating Agents.
   - IGSN namespaces and IGSN names must conform to the [IGSN syntax guidelines](../syntax).
 
@@ -70,5 +72,3 @@ Principal investigators applying to an Allocating Agent for a namespace might pr
 ### Legacy Namespaces ###
 
 The current number of namespaces already assigned by SESAR is small enough to leave already assigned namespaces (legacy namespaces) in place.
-
-# Assigned Namespaces #
