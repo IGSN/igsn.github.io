@@ -15,10 +15,10 @@ The IGSN is a persistent unique identifier for physical samples and specimens th
 
   * [System Architecture](../system): Learn about the technical architecture underlying IGSN.
   * IGSN software components for use by IGSN Allocating Agents:
-    * <https://github.com/ulbricht/mds> Metadata Store (MDS) for IGSN
-    * <https://github.com/ulbricht/oaip> OAI-PMH provider for IGSN MDS
-    * <https://github.com/ulbricht/search> Search component for IGSN MDS
-  * IGSN <http://trac.gfz-potsdam.de/igsn/newticket> Ticket System and development wiki <http://trac.gfz-potsdam.de/igsn/wiki>.
+    * <https://github.com/IGSN/mds> Metadata Store (MDS) for IGSN
+    * <https://github.com/IGSN/oaip> OAI-PMH provider for IGSN MDS
+    * <https://github.com/IGSN/search> Search component for IGSN MDS
+  * IGSN <https://github.com/IGSN/igsn.github.io/issues> Issue Tracker and [namespace requests](..namespaces).
 
 
 # IGSN - International GeoSample Number Implementation Organization e.V. #

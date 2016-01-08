@@ -38,11 +38,11 @@ FIXME
 ## Source Code ##
 
 
-The source code of the IGSN Metadata Store can be found here: <https://github.com/ulbricht/mds>
+The source code of the IGSN Metadata Store can be found here: <https://github.com/IGSN/mds>
 
-The source code of the OAI-PMH provider for the syndication of metadata from the MDS to portals and catalogues can be found here: <https://github.com/ulbricht/oaip>
+The source code of the OAI-PMH provider for the syndication of metadata from the MDS to portals and catalogues can be found here: <https://github.com/IGSN/oaip>
 
-The source code for the search component of the MDS can be found here: <https://github.com/ulbricht/search>
+The source code for the search component of the MDS can be found here: <https://github.com/IGSN/search>
 
 
 ## Events ##
