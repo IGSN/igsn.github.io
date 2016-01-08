@@ -56,7 +56,7 @@ An example of a publication using live IGSNs can be found here:
 
 # IGSN Syntax Example #
 
-An International GeoSample Number (IGSN), is a unique string created to identify a sample object in an online environment. The IGSN is organised by [[igsn:glossary#namespace|namespaces]] to ensure globally unique allocation of IGSNs to samples. <del>The [[igsn:syntax|recommended format]] of the IGSN is a nine character string consisting of a [[igsn:glossary#namespace|namespace]] identifier and a sample number.</del>
+An International GeoSample Number (IGSN), is a unique string created to identify a sample object in an online environment. The IGSN is organised by [namespaces](../namespaces) to ensure globally unique allocation of IGSNs to samples.
 
     Example (IGSN):      SSH000SUA (a sample at the Department of Geosciences, Pennsylvania State University, from the Susquehanna Shale Hills Critical Zone Observatory)
 
