@@ -15,7 +15,7 @@ Get a quick introduction to how IGSN works and follow the links for more informa
 
 ## Set up a service for IGSN registration ##
 
-  * To be able to register IGSN, you have to [become a member](../membership.md) of the IGSN Implementation Organization IGSN e.V. This [role](organisation.md) in IGSN is called an "[Allocating Agent](agents.md)".
+  * To be able to register IGSN, you have to [become a member](../membership.md) of the IGSN Implementation Organization IGSN e.V. This [role](../organisation.md) in IGSN is called an "[Allocating Agent](../agents.md)".
   * As an Allocating Agent you will be authorised to register IGSN in the [namespace](../namespaces.md) assigned to you. [Check](http://trac.gfz-potsdam.de/igsn/wiki/igsnNamespaces) which namespaces have been assigned already and [apply for your namespace](../namespaces.md).
   * You may build your own software or reuse [open source components](../system.md) developed for IGSN e.V.
   * :warning: FIXME
