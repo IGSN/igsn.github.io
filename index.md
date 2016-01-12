@@ -40,7 +40,7 @@ The IGSN eV is an international non-profit organization that aims to implement a
   * [Allocating Agents](../agents): Information about function and duties of IGSN Allocating Agents.
   * [Membership](../membership) application
   * [Minutes](../minutes) from meetings and telecons
-  * [Promotional Material](../promo)  for flyers and announcements
+  * [Publications](../publications) on IGSN and related literature
   
 Membership in the IGSN e.V. is open to all organizations that wish to allocate IGSNs and use the Registration Agency of the IGSN e.V. in their capacity as Allocating Agents. Affiliate Membership with an advisory function is offered to organizations, who do not wish to use the IGSN eV Registration Agency as an allocating agent, but who have an interest in promoting and supporting the purposes of the IGSN e.V.
 
