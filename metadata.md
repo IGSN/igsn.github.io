@@ -3,6 +3,8 @@ layout: page
 title: Metadata
 ---
 
+** Note:** Registration metadata development has been moved to <https://github.com/IGSN/metadata/wiki/IGSN-Registration-Metadata-Version-1.0>
+
 # IGSN Handle Registration Metadata #
 
 Due to the diversity of samples that IGSN tries to accommodate, including historic samples with a very limited set of available metadata. The IGSN metadata scheme is not a standard metadata scheme for sample description, it is used only to transmit core metadata needed for the registration, resolution, and administration of the IGSN resolver service. Metadata schemes in community databases are defined by the respective scientific [communities](../communities).
