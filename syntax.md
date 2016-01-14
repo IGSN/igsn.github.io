@@ -42,7 +42,7 @@ The resolvable handle URI of an IGSN is made up of three components: a resolving
 
     <resolver>/<prefix>/<igsn>
 	
-where <resolver>/<prefix> is <http://hdl.handle.net/10273> and  <igsn> is the value (IGSN) assigned by an [Allocating Agent](../agents). As an Example, we take a sample from the Susquehanna Shale Hills Critical Zone Observatory, registered through SESAR on behalf of the Department of Geosciences, Pennsylvania State University:
+where \<resolver\>/\<prefix\> is <http://hdl.handle.net/10273> and  \<igsn\> is the value (IGSN) assigned by an [Allocating Agent](../agents). As an Example, we take a sample from the Susquehanna Shale Hills Critical Zone Observatory, registered through SESAR on behalf of the Department of Geosciences, Pennsylvania State University:
 	
     Example (IGSN):      SSH000SUA
 
