@@ -71,11 +71,10 @@ Affiliate Membership with an advisory function and the right to attend the Gener
 
 The constituent bodies of the Association are the Executive Board and the General Assembly.
 
-{{:igsn:igsn_statutes.png|Constituent bodies of the Association}}
+![Constituent bodies of the Association](../media/igsn_statutes.png)
 
+*Constituent bodies of the Association.*
 
-
-Figure: Constituent bodies of the Association.
 
 ## § 10 Executive Board ##
 

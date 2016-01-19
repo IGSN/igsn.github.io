@@ -3,7 +3,7 @@ layout: page
 title: Metadata
 ---
 
-** Note:** Registration metadata development has been moved to <https://github.com/IGSN/metadata/wiki/IGSN-Registration-Metadata-Version-1.0>
+:warning: Registration metadata development has been moved to <https://github.com/IGSN/metadata/wiki/IGSN-Registration-Metadata-Version-1.0>
 
 # IGSN Handle Registration Metadata #
 
@@ -13,18 +13,18 @@ Due to the diversity of samples that IGSN tries to accommodate, including histor
 The URL of the landing page of the collection item (resourceURI) is not part of the IGSN metadata kernel, but is transmitted to the IGSN web service as part of the registration process and stored in the handle system. In this way, mismatches between URI stored in the metadata and URI stored in the handle system can be avoided.
 
 
-The XML schema can be downloaded from our code repository: (Trac) <http://trac.gfz-potsdam.de/igsn/browser/IGSN/schema> or (SVN) <http://svnext.gfz-potsdam.de/igsn/>.
+The XML schema can be downloaded from our code repository: <https://github.com/IGSN/metadata/tree/master/registration>.
 
-The documentation of the metadata and schema has moved to the IGSN Trac Wiki <http://trac.gfz-potsdam.de/igsn/wiki/WikiStart
+The documentation of the metadata and schema has moved to the IGSN GitHub site <https://github.com/IGSN/metadata/wiki/IGSN-Registration-Metadata-Version-1.0>
 
 The URL of the landing page of the collection item (resourceURI) is not part of the IGSN metadata kernel, but is transmitted to the IGSN web service as part of the registration process and stored in the handle system. In this way, mismatches between URI stored in the metadata and URI stored in the handle system can be avoided.
 
-The XML schema can be downloaded from our code repository: (Trac) http://trac.gfz-potsdam.de/igsn/browser/IGSN/schema or (SVN) http://svnext.gfz-potsdam.de/igsn/.
+Change requests can be submitted as a new ticket: <https://github.com/IGSN/metadata/issues>.
 
-Change requests can be submitted as a new ticket: [http://trac.gfz-potsdam.de/igsn/newticket].
 
 # IGSN Registration Metadata Elements #
 
+:warning: The IGSN registration metadata documentation and development has moved to <https://github.com/IGSN/metadata/tree/master/registration>
 
 Version 1.0 of 2012-07-11
 
@@ -64,6 +64,8 @@ A = Attribute, C = Child
 
 
 ## IGSN Element Attribute Values ##
+
+
 
 ### 1.1 identifierType ###
 

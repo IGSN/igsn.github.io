@@ -68,9 +68,9 @@ Samples and collections are embedded into specific user communities and organisa
 
 
 
-{{:igsn:igsn_simple_architecture.png|IGSN simplified system architecture}}
+![IGSN simplified system architecture](../media/igsn_simple_architecture.png)
 
-//Simplified architecture diagram of the IGSN registration process.//
+*Simplified system architecture of the IGSN registration.*
 
 Clients register samples together with metadata through their Allocating Agents. The Allocating Agents registers the IGSN at the IGSN Registration Agency and keeps a catalogue of all samples registered through by this agent. The catalogues of registered samples are harvested and compiled into metadata portals to make samples searchable and accessible.
 

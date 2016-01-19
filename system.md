@@ -5,9 +5,9 @@ title: System Architecture
 
 The resolution of IGSN names to URL is based on the [Handle_System](https://en.wikipedia.org/wiki/Handle_System) where IGSN operates in the handle-namespace <10273>. IGSN names of samples are registered as key-value pairs together with descriptive and administrative metadata by an IGSN client with an Allocating Agent. The Allocating Agent in turn registers the IGSN at the IGSN Registration Service operated by IGSN e.V.
 
-{{:igsn:igsn_simple_architecture.png?|IGSN simplified system architecture}}
+![IGSN simplified system architecture](../media/igsn_simple_architecture.png)
 
-//Simplified system architecture of the IGSN registration.//
+*Simplified system architecture of the IGSN registration.*
 
 The following pages provide more information on the components of the IGSN system architecture:
 
@@ -32,7 +32,7 @@ The IGSN registration service provides a REST API for the registration of IGSN a
 
 ## IGSN OAI-PMH API Documentation ##
 
-FIXME
+:warning: FIXME
 
 
 ## Source Code ##
