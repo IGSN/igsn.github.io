@@ -17,7 +17,15 @@ Get a quick introduction to how IGSN works and follow the links for more informa
   * As an individual researcher, your IGSNs for samples will be registered on your behalf by an [Allocating Agent](../agents).
   * Your [Allocating Agent](../agents) will advise you on [how to create an IGSN](../syntax) and how to register it.
 
+## How to resolve an IGSN ##
 
+An IGSN can be resolved through the internet by using a Handle.net or DOI resolver.
+
+     Example (IGSN):        BGRB5054RX05201
+	
+The address of the IGSN resolver is http://hdl.handle.net/10273
+
+By using the URL <http://hdl.handle.net/10273/BGRB5054RX05201>, you will be automatically redirected to the web page describing this sample.
 
 ## How to use IGSN in the literature ##
 
