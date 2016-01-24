@@ -56,9 +56,9 @@ Resulting handle URI:  <http://hdl.handle.net/10273/AU1101>
 
 Example from the International Scientific Continental Drilling Program (ICDP), registered by MARUM on behalf of ICDP:
 
-    Example (IGSN):        MBCR5034RXWU001
+    Example (IGSN):        MBCR5034RC57001
 	
-Resulting handle URI:  <http://hdl.handle.net/10273/MBCR5034RXWU001>
+Resulting handle URI:  <http://hdl.handle.net/10273/MBCR5034RC57001>
 
 Example from the International Scientific Continental Drilling Program (ICDP), registered by GFZ Potsdam on behalf of ICDP:
 
