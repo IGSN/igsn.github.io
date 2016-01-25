@@ -42,23 +42,29 @@ The resolvable handle URI of an IGSN is made up of three components: a resolving
 
     <resolver>/<prefix>/<igsn>
 	
-where \<resolver\>/\<prefix\> is <http://hdl.handle.net/10273> and  \<igsn\> is the value (IGSN) assigned by an [Allocating Agent](../agents). As an Example, we take a sample from the Susquehanna Shale Hills Critical Zone Observatory, registered through SESAR on behalf of the Department of Geosciences, Pennsylvania State University:
+where \<resolver\>/\<prefix\> is <http://hdl.handle.net/10273> and  \<igsn\> is the value (IGSN) assigned by an [Allocating Agent](../agents). As an Example, we take a sample from the Susquehanna Shale Hills Critical Zone Observatory, registered through SESAR on behalf of the Department of Geosciences, Pennsylvania State University.
+
+## Example from IEDA ##
 	
     Example (IGSN):      SSH000SUA
 
 Applying the above rule, the resulting resulting URI is <http://hdl.handle.net/10273/SSH000SUA> (or using the DOI resolving service <http://dx.doi.org/10273/SSH000SUA>)
 	
-Example from Geoscience Australia:
+## Example from Geoscience Australia ##
 
     Example (IGSN):        AU1101
 
 Resulting handle URI:  <http://hdl.handle.net/10273/AU1101>
+
+## Example from MARUM ##
 
 Example from the International Scientific Continental Drilling Program (ICDP), registered by MARUM on behalf of ICDP:
 
     Example (IGSN):        MBCR5034RC57001
 	
 Resulting handle URI:  <http://hdl.handle.net/10273/MBCR5034RC57001>
+
+## Examples from GFZ Potsdam ##
 
 Example from the International Scientific Continental Drilling Program (ICDP), registered by GFZ Potsdam on behalf of ICDP:
 
@@ -79,6 +85,20 @@ Example of assigning an IGSN to a drill hole (sampling feature):
     Example (IGSN):        ICDP5054EEW1001
 
 Resulting handle URI:  <http://hdl.handle.net/10273/ICDP5054EEW1001>
+
+## Example from CSIRO ##
+
+Example from the collection of CSIRO at the Australian Resources Research Centre in Kensington, Western Australia:
+
+    Example (IGSN):        CSRWA275
+	
+Resulting handle URI:  <http://hdl.handle.net/10273/CSRWA275>
+
+The above example is part of a sub-collection with its own IGSN:
+
+    Example (IGSN):        CSRWASC00001
+	
+Resulting Handle URI:   <http://hdl.handle.net/10273/CSRWASC00001>
 	
 	
 	
