@@ -23,7 +23,7 @@ A failure to comply with the roles and responsibilities may result in the [termi
 ## Operating Allocating Agents ##
 
   * System for Earth Sample Registration (SESAR) <http://www.geosamples.org>
-  * CSRIO Mineral Resources <http://www.csiro.au/en/Research/MRF>
+  * CSIRO Mineral Resources <http://www.csiro.au/en/Research/MRF>
   * MARUM Centre for Marine Environmental Sciences, Univ. Bremen <http://www.marum.de>
   * German Research Centre for Geosciences GFZ, Potsdam <http://www.gfz-potsdam.de/en/section/centre-for-scientific-drilling/>
   * Geoscience Australia
