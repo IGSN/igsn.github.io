@@ -35,9 +35,9 @@ The IGSN is organised by [namespaces](../namespaces) to ensure globally unique a
 
 ## Metadata Profile and Schema ##
 
-Due to the diversity of samples that IGSN tries to accommodate, including historic samples with a very limited set of available metadata. IGSN metadata come in two sets: registration metadata and descriptive metadata. Regsitation metadata are used only to transmit the core metadata elements needed for the registration, resolution, and administration of the IGSN resolver service. Metadata for sample catalogues use descriptive metadata. IGSN e.V. have defined a core descriptive metadata set, but in community databases may define more specific metadata profiles used by the respective scientific communities.
+Due to the diversity of samples that IGSN tries to accommodate, including historic samples with a very limited set of available metadata. IGSN metadata come in two sets: registration metadata and descriptive metadata. Registration metadata are used only to transmit the core metadata elements needed for the registration, resolution, and administration of the IGSN resolver service. Metadata for sample catalogues use descriptive metadata. IGSN e.V. have defined a core descriptive metadata set, but in community databases may define more specific metadata profiles used by the respective scientific communities.
 
-The registration metadata schema can be downloaded from our code repository: (Trac) <http://trac.gfz-potsdam.de/igsn/browser/IGSN/schema> or (SVN) <http://svnext.gfz-potsdam.de/igsn/>. The documentation of the metadata and schema has moved to the IGSN Trac Wiki <http://trac.gfz-potsdam.de/igsn/wiki/WikiStart> 
+The registration metadata schema can be downloaded from our code repository: (Trac) <https://github.com/IGSN/metadata/tree/master/registration>. The metadata and schema are documented at <https://github.com/IGSN/metadata/wiki> 
 
 An IGSN [Community](../communities) can define a more detailed metadata application profile.
 

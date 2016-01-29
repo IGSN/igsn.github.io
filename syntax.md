@@ -72,7 +72,7 @@ Example from the International Scientific Continental Drilling Program (ICDP), r
 
 Resulting handle URI:  <http://hdl.handle.net/10273/ICDP5054ESYI201>
 	
-Example from the core repository of the German Federal Geological Survey (BGR), registered by GFZ Potsdam on behalf of BGR:
+Example from the core repository of the German Federal Geological Survey (BGR), registered by MARUM on behalf of BGR:
 
     Example (IGSN):        BGRB5054RX05201
 

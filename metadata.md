@@ -9,10 +9,6 @@ title: Metadata
 
 Due to the diversity of samples that IGSN tries to accommodate, including historic samples with a very limited set of available metadata. The IGSN metadata scheme is not a standard metadata scheme for sample description, it is used only to transmit core metadata needed for the registration, resolution, and administration of the IGSN resolver service. Metadata schemes in community databases are defined by the respective scientific [communities](../communities).
 
-
-The URL of the landing page of the collection item (resourceURI) is not part of the IGSN metadata kernel, but is transmitted to the IGSN web service as part of the registration process and stored in the handle system. In this way, mismatches between URI stored in the metadata and URI stored in the handle system can be avoided.
-
-
 The XML schema can be downloaded from our code repository: <https://github.com/IGSN/metadata/tree/master/registration>.
 
 The documentation of the metadata and schema has moved to the IGSN GitHub site <https://github.com/IGSN/metadata/wiki/IGSN-Registration-Metadata-Version-1.0>
