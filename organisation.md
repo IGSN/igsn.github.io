@@ -11,16 +11,7 @@ The IGSN Implementation Organization (IGSN e.V.) provides the organisational and
 
 Use of persistent identifiers in digital data systems allows building linkages between the digital representation of samples (sample profiles) in community governed portals and their related data in the literature and in web­ accessible digital data repositories. This system is open to scientific communities outside of geology. Physical sample materials encompass any materials referenced for scientific purposes, e.g. minerals, rocks, water samples, holotypes, collection specimens, reference materials, and other types of physical sample materials. Read more on IGSN [communities of practice](../communities) …
 
-A core element of the implementation of globally unique and persistent identifiers for physical sample materials is a handle server ([Handle System](https://en.wikipedia.org/wiki/Handle_System)) to resolve IGSN handles to the URL of the respective sample description at the collection/repository. This server is operated by the IGSN Implementation Organisation (IGSN e.V.). Read more on the [technical implementation](../system) of IGSN …
-
-IGSN is **not a database** for samples. Discipline specific databases are operated by the respective scientific communities and IGSN, as persistent identifiers, help to reference samples in discipline specific sample catalogues. Read more on IGSN [system architecture](../system) and IGSN [communities of practice](../communities) …
-
-IGSN e.V. does **not prescribe a naming scheme** for samples. Communities are free to govern their IGSN namespaces according to their needs. Using IGSN ensures that samples can be uniquely identified. Read more on IGSN [naming conventions](../syntax) …
-
-IGSN does **not prescribe a standard metadata scheme**. Metadata schemes in community databases are defined by the respective scientific communities to best serve their needs for sample discovery and reference. Read more on IGSN [metadata](../metadata) …
-
-
-The application and long-term utility of sample­ based data is critically dependent on
+The application and long-term utility of sample-based data is critically dependent on
 
   * availability of information (metadata) about the samples such as geographical location and time of sampling,
   * links to other data sets derived from individual samples that are dispersed in the literature and in digital data repositories, and 
@@ -28,7 +19,7 @@ The application and long-term utility of sample­ based data is critically depen
 
 Major problems for achieving this include incomplete documentation of samples in publications, use of ambiguous sample names, and the lack of a central catalogue that allows finding a sample's archiving location.
 
-Using persistent identifiers for physical samples, such as the International GeoSample Number (IGSN), provides solutions. The IGSN Implementation Organisation (IGSN e.V.) offers a system of unique persistent identifiers for samples. Use of persistent identifiers in digital data systems allows building linkages between the digital representation of samples (sample profiles) in community governed portals and their related data in the literature and in web­ accessible digital data repositories.
+Using persistent identifiers for physical samples, such as the International GeoSample Number (IGSN), provides solutions. The IGSN Implementation Organisation (IGSN e.V.) offers a system of unique persistent identifiers for samples. Use of persistent identifiers in digital data systems allows building linkages between the digital representation of samples (sample profiles) in community governed portals and their related data in the literature and in web­accessible digital data repositories.
 
 This system is open to scientific communities outside of geology.
 
@@ -40,11 +31,13 @@ Each scientific community has different needs how to reference physical sample m
 
 Physical sample materials encompass any materials referenced for scientific purposes, e.g. minerals, rocks, water samples, holotypes, collection specimens, reference materials, and other types of physical sample materials.
 
-IGSN e.V. is **not a database** for samples. Discipline specific databases are operated by the respective scientific communities.
+A core element of the implementation of globally unique and persistent identifiers for physical sample materials is a handle server ([Handle System](https://en.wikipedia.org/wiki/Handle_System)) to resolve IGSN handles to the URL of the respective sample description at the collection/repository. This server is operated by the IGSN Implementation Organisation (IGSN e.V.). Read more on the [technical implementation](../system) of IGSN …
 
-IGSN e.V. does **not prescribe a naming scheme** for samples. Communities are free to govern their IGSN namespaces according to their needs.
+IGSN is **not a database** for samples. Discipline specific databases are operated by the respective scientific communities and IGSN, as persistent identifiers, help to reference samples in discipline specific sample catalogues. Read more on IGSN [system architecture](../system) and IGSN [communities of practice](../communities) …
 
-IGSN e.V. is **not a standard metadata scheme**. Metadata schemes in community databases are defined by the respective scientific communities. 
+IGSN e.V. does **not prescribe a naming scheme** for samples. Communities are free to govern their IGSN namespaces according to their needs. Using IGSN ensures that samples can be uniquely identified. Read more on IGSN [naming conventions](../syntax) …
+
+IGSN does **not prescribe a standard metadata scheme**. Metadata schemes in community databases are defined by the respective scientific communities to best serve their needs for sample discovery and reference. Read more on IGSN [metadata](../metadata) …
 
 ## Entities and Roles ##
 
