@@ -64,14 +64,6 @@ Example from the International Scientific Continental Drilling Program (ICDP), r
 	
 Resulting handle URI:  <http://hdl.handle.net/10273/MBCR5034RC57001>
 
-## Examples from GFZ Potsdam ##
-
-Example from the International Scientific Continental Drilling Program (ICDP), registered by GFZ Potsdam on behalf of ICDP:
-
-	Example (IGSN):        ICDP5054ESYI201
-
-Resulting handle URI:  <http://hdl.handle.net/10273/ICDP5054ESYI201>
-	
 Example from the core repository of the German Federal Geological Survey (BGR), registered by MARUM on behalf of BGR:
 
     Example (IGSN):        BGRB5054RX05201
@@ -79,6 +71,14 @@ Example from the core repository of the German Federal Geological Survey (BGR), 
 Resulting handle URI:  <http://hdl.handle.net/10273/BGRB5054RX05201>
 	
 The sample [BGRB5054RX05201](http://hdl.handle.net/10273/BGRB5054RX05201) was derived from [ICDP5054ESYI201](http://hdl.handle.net/10273/ICDP5054ESYI201).
+
+## Examples from GFZ Potsdam ##
+
+Example from the International Scientific Continental Drilling Program (ICDP), registered by GFZ Potsdam on behalf of ICDP:
+
+	Example (IGSN):        ICDP5054ESYI201
+
+Resulting handle URI:  <http://hdl.handle.net/10273/ICDP5054ESYI201>
 
 Example of assigning an IGSN to a drill hole (sampling feature):
 
