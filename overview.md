@@ -39,6 +39,11 @@ In a journal article or manuscript a sample identified by IGSN SSH000SUA may loo
 
 Tagging IGSNs in manuscripts in this way allows publishers to automatically link samples identified by IGSN to their respective descriptive pages on the web. See also <http://www.geosamples.org/news/tag> for more information about journals using IGSN.
 
+## Create Catalogues and Community Portals ##
+
+There are many things you would like to know about a sample (i.e. metadata) and there is no "one size fits all" solution to this question. The metadata elements that matter will depend very much on the [community of practice](../communities) that wants to share metadata and sample catalogues. This is why IGSN uses the Open Archival Initiative Protocol for Metadata Harvesting [(OAI-PMH)](https://en.wikipedia.org/wiki/Protocol_for_Metadata_Harvesting) for sharing sample catalogues. These catalogues can be harvested and compiled into new catalogues and [community portals](../communities).
+
+Find out more in the documentation of [IGSN OAI-PMH services](../oai)
 
 ## Set up a service for IGSN registration ##
 
