@@ -32,7 +32,7 @@ The IGSN registration service provides a REST API for the registration of IGSN a
 
 ## IGSN OAI-PMH API Documentation ##
 
-:warning: FIXME
+IGSN catalogues are disseminated through web services using the Open Archival Initiative Protocol for Metadata Harvesting [(OAI-PMH)](http://www.openarchives.org/pmh/). Catalogues are offered for harvesting in the IGSN Core Metadata schema and in the OAI-PMH default [Dublin Core](http://www.openarchives.org/OAI/2.0/openarchivesprotocol.htm#dublincore). The documentation for IGSN OAI-PMH services can be found here: [IGSN Catalogues](../oai)
 
 
 ## Source Code ##
