@@ -3,12 +3,10 @@ layout: page
 title: Syntax Guidelines
 ---
 
-
-
 The following is a summary of the syntax guidelines for the IGSN:
 
   - **The IGSN must be unique and is case insensitive**.
-  - In consideration of human readability the **IGSN should be as concise as possible**. IGSNs will be displayed online and in print and will be re-typed by end users.
+  - In consideration of human readability the **IGSN should be as concise as possible**. IGSNs will be displayed on-line and in print and will be re-typed by end users.
   - **In general, an IGSN should not be considered "derivable"**. Although some IGSNs may be generated according to an algorithm, it is preferable to look them up in IGSN, as there is no guarantee that a generated IGSN has been registered with IGSN or that it will resolve.
   - Organisations assigning IGSNs may choose to adopt a consistent, logical system that can be easily documented and readily understood by employees of your organization. This helps to ensure the uniqueness of assigned IGSNs and makes it easier for the task of assigning IGSNs to be passed from one employee to the next. You might therefore **consider to include existing internal identifiers** already in use within your organization.
   - Suffix nodes may be used to reflect hierarchical information or levels of granularity. For instance, the first node might be a multiple-letter code for a drill core, while successive nodes encode sub-samples taken from the drill core. IGSN suffixes may be extensible, and the suffix nodes may be used for this purpose. For instance, in the future, further sub-samples taken from already subsampled materials might be assigned IGSNs. **In trying to keep IGSNs as short as possible, careful consideration should be taken before adopting a naming scheme that makes use of extending already existing IGSN names**.
@@ -16,7 +14,7 @@ The following is a summary of the syntax guidelines for the IGSN:
 
 # Recommended Practice #
 
-Unlike many other persistent identifiers, an IGSN is used not only used by machines but also needs to be handled by humans. The labeling of sample containers prescribes a limit to the number of characters that fit on a label. Also, IGSNs in lists and tables will often need editing by humans. Long character strings increase the risk of mistypings. To reduce the risk of mistypings, the IGSN is case insensitive and we recommend to avoid characters that can easily be confused, such as ‘1’ and ‘I’, or  ‘0’ and ‘O’.
+Unlike many other persistent identifiers, an IGSN is used not only used by machines but also needs to be handled by humans. The labelling of sample containers prescribes a limit to the number of characters that fit on a label. Also, IGSNs in lists and tables will often need editing by humans. Long character strings increase the risk of mistypings. To reduce the risk of mistypings, the IGSN is case insensitive and we recommend to avoid characters that can easily be confused, such as ‘1’ and ‘I’, or  ‘0’ and ‘O’.
 
 Since IGSNs are intended to be combined into a URI, in order to retain maximum compatibility with [URI production rules](http://tools.ietf.org/html/rfc3986) it is suggested to limit the characters that can be used in the Code to the so-called 'unreserved' + 'reserved' set, but not allow any other or percent-encoded characters which may exist on the keyboard or other character sets (e.g. no accented characters or non-latin alphabets, no space, CR, LF characters). Using [ABNF notation](http://tools.ietf.org/html/rfc5234) the syntax proposed syntax for an IGSN is: 
 

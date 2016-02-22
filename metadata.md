@@ -3,18 +3,22 @@ layout: page
 title: Metadata
 ---
 
-Due to the diversity of samples that IGSN tries to accommodate, including historic samples with a very limited set of available metadata. The IGSN registration metadata scheme is not a standard metadata scheme for sample description, it is used only to transmit core metadata needed for the registration, resolution, and administration of the IGSN resolver service. Metadata schemes in community databases are defined by the respective scientific [communities](../communities).
+There are many things you would like to know about a sample (i.e. [metadata](../metadata)) and there is no "one size fits all" solution to this question. The metadata elements that matter will depend very much on the [community of practice](../communities) that wants to share metadata and sample catalogues.
 
-Change requests can be submitted to our issue tracker: <https://github.com/IGSN/metadata/issues>.
+To be able to accommodate the great variety of geoscience samples, the IGSN system uses two separate sets of metadata:
+
+*   IGSN descriptive metadata is a metadata kernel to catalogue samples according to collector, material type, location of origin of the sample, etc.
+
+*   IGSN registration metadata is a set of metadata elements relating only to the registration and administration of the IGSN.
 
 # IGSN Descriptive Metadata #
 
-To facilitate the discovery of samples through centralised catalogues, IGSN e.V., together with the NSF funded iSamples initiative, hosted a workshop in Los Angeles, California, on 14/15 September 2015 to draft a metadata kernel for descriptive and discovery metadata. The idea behind this IGSN descriptive metadata kernel is to provide a minimum set of elements to describe a geological sample. The schema only contains elements that do not change over time, in analogy to being a "birth certificate" of a sample. Allocating Agents will provide richer and more specific metadata in schemas defined by [communities of practice](../communities)
+To facilitate the discovery of samples through centralised catalogues, IGSN e.V., together with the NSF funded iSamples initiative, hosted a [workshop in Los Angeles](../2015/09/15/IGSN-Metadata-Kernel-Working-Meeting), California, on 15/16 September 2015 to draft a metadata kernel for descriptive and discovery metadata. The idea behind this IGSN descriptive metadata kernel is to provide a minimum set of elements to describe a geological sample. The schema only contains elements that do not change over time, in analogy to being a "birth certificate" of a sample. Allocating Agents will provide richer and more specific metadata in schemas defined by [communities of practice](../communities)
 
 
-*   IGSN description metadata Schema for production: <http://schema.igsn.org/description>
+*   IGSN descriptive metadata Schema for production: <http://schema.igsn.org/description>
 
-*   IGSN description metadata schema on GitHub: <https://github.com/IGSN/metadata/tree/master/description>
+*   IGSN descriptive metadata schema on GitHub: <https://github.com/IGSN/metadata/tree/master/description>
 
 *   Documentation on GitHub: <https://github.com/IGSN/metadata/wiki/IGSN-Descriptive-Metadata-Version-1.0>
 
@@ -34,4 +38,4 @@ The IGSN registration metadata scheme is used only to transmit core metadata nee
 
 # IGSN -> Dublin Core Cross-walk #
 
-The Mapping of IGSN Descriptive Metadata elements to Dublin Core elements should be used to serve Dublin Core metadata through the Allocating Agents' [OAI-PMH](../oai) services for harvesting by generic clients, e.g. [Geonetwork Open Source](http://www.geonetwork-opensource.org/). More detail can be found in the [documentation of IGSN OAI-PMH services](../oai).
+All OAI-PMH harvesters know how to process Dublin Core metadata. The Mapping of IGSN Descriptive Metadata elements to Dublin Core elements provides a cross-walk to serve Dublin Core metadata for harvesting if IGSN catalogues by generic clients, e.g. [Geonetwork Open Source](http://www.geonetwork-opensource.org/). More detail can be found in the [documentation of IGSN OAI-PMH services](../oai).

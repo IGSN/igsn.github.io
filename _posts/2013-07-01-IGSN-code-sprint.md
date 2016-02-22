@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2013 Code Sprint
+title: 2013-07-01 Code Sprint
 ---
 
 ## Code Sprint 2013 ##

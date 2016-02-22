@@ -48,5 +48,7 @@ The source code for the search component of the MDS can be found here: <https://
 ## Events ##
 
 
-First IGSN-DataCite-ORCID [Code Sprint 2013](../codesprint_2013)
+First IGSN-DataCite-ORCID [Code Sprint 2013](../2013/07/01/IGSN-code-sprint) (Potsdam, 2013-07-01 to 2013-07-02)
+
+IGSN [Metadata Kernel Workshop](../2015/09/15/IGSN-Metadata-Kernel-Working-Meeting) (Los Angeles, 2015-09-15 to 2015-09-16)
 
