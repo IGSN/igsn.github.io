@@ -85,7 +85,7 @@ Metadata about your samples must conform to the standards published by IGSN e.V.
 
 Each API call can have optional query parametertestMode. If set to "true" or "1" the request will not change the database nor will the IGSN handle will be registered or updated, e.g. POST igsn/igsn?testMode=true.
 
-Also please note that there is special test prefix 10273/TEST available to all datacentres. Please use it for all your testing IGSNs. Your real prefix should not be used for test IGSNs. Note that IGSNs with test prefix will behave like any other IGSN, e.g. they can be normally resolved. They will not be exposed by upcoming services like search and OAI, though. Periodically we purge all 10273/TEST datasets from the system.
+Also please note that there is special test prefix 20.500.11812 available to all datacentres. Please use it for all your testing IGSNs. Your real prefix should not be used for test IGSNs. Note that IGSNs with test prefix will behave like any other IGSN, e.g. they can be normally resolved. They will not be exposed by upcoming services like search and OAI, though. Periodically we purge all 20.500.11812 datasets from the system.
 
 
 ## Code examples ##
