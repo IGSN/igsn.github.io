@@ -4,7 +4,7 @@ title: Registered IGSN Namespaces
 ---
 
 
-The following IGSN namespaces have been registered as of 2014-04-12
+The following IGSN namespaces have been registered as of 2016-08-25
 
 Prefix | Allocators | Created
 ------ | ---------- | -------
@@ -60,6 +60,7 @@ Prefix | Allocators | Created
 10273/ECS | IEDA | 2013-06-07T08:26:54.000+02:00
 10273/EDY | IEDA | 2014-05-19T08:41:55.000+02:00
 10273/EOI | IEDA | 2014-05-19T08:42:01.000+02:00
+10273/EPC |	IEDA | 2016-08-25T12:24:00.000+02:00
 10273/EVA | IEDA | 2014-05-30T07:16:01.000+02:00
 10273/EXT | IEDA | 2014-05-19T08:42:05.000+02:00
 10273/FB2 | IEDA | 2013-06-07T08:25:03.000+02:00
