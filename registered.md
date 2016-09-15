@@ -4,7 +4,7 @@ title: Registered IGSN Namespaces
 ---
 
 
-The following IGSN namespaces have been registered as of 2014-04-12
+The following IGSN namespaces have been registered as of 2016-09-07
 
 Prefix | Allocators | Created
 ------ | ---------- | -------
@@ -49,6 +49,7 @@ Prefix | Allocators | Created
 10273/CS  | CSIRO | 2015-01-22T13:01:15.000+01:00
 10273/CSD | CSIRO | 2014-05-19T08:44:04.000+02:00
 10273/CSI | CSIRO | 2013-05-24T15:06:59.000+02:00
+10273/CU  | CU	| 2016-09-08 13:25 CEST
 10273/CZ  | IEDA | 2014-06-06T08:22:15.000+02:00
 10273/DCO | RPI | 2016-04-12T19:36:00.000+02:00
 10273/DDW | IEDA | 2013-06-07T08:17:10.000+02:00
@@ -60,6 +61,7 @@ Prefix | Allocators | Created
 10273/ECS | IEDA | 2013-06-07T08:26:54.000+02:00
 10273/EDY | IEDA | 2014-05-19T08:41:55.000+02:00
 10273/EOI | IEDA | 2014-05-19T08:42:01.000+02:00
+10273/EPC |	IEDA | 2016-08-25T12:24:00.000+02:00
 10273/EVA | IEDA | 2014-05-30T07:16:01.000+02:00
 10273/EXT | IEDA | 2014-05-19T08:42:05.000+02:00
 10273/FB2 | IEDA | 2013-06-07T08:25:03.000+02:00
