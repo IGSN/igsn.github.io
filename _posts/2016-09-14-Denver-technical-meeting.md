@@ -1,3 +1,8 @@
+---
+layout: post
+title: 2016-09-14 Denver technical meeting
+---
+
 # MEETING ON IGSN
 
 09:00-13:00 MT Wednesday 14 September 2016 
