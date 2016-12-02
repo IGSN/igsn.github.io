@@ -10,4 +10,4 @@ Clients register samples together with metadata through their Allocating Agents.
 Community Portals:
 
    * System for Earth Science Sample Registration (SESAR) <http://www.geosamples.org>
-   * Australian Geoscience Samples Catalogue (in preparation)
+   * Australian Geoscience Samples Catalogue <http://igsn2.csiro.au>
