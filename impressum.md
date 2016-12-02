@@ -3,9 +3,7 @@ layout: page
 title: Impressum
 ---
 
-# Impressum #
-
-Herausgeber:
+Herausgeber: International Geo Sample Implementation Organization IGSN e.V.
 
 ## 1. Inhalt des Onlineangebotes ##
 
@@ -51,7 +49,9 @@ Um die Qualität unserer Webseiten zu verbessern, speichern wir zu statistischen
 
 E-Mail: info@igsn.org
 
-> IGSN e.V.
-> c/o Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ
-> Telegrafenberg
-> 14473 Potsdam
+Postadresse:
+
+    IGSN e.V.
+    c/o Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ
+    Telegrafenberg
+    14473 Potsdam
