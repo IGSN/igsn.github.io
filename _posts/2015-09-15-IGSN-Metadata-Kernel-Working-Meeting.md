@@ -8,6 +8,8 @@ Sept. 15-16th, 2015, Playa Room, Four Points by Sheraton Los Angeles Westside, C
 
 Attendees: Jens Klump, Kerstin Lehnert, Rob Guralnick, Bob Arko, Doug Fils, Steve Richard, John Deck, Dirk Fleischer, Kelly Stroker, Lesley Wyborn, John Wieczorek, Adam Mansur, Gary Berg-Cross 
 
+A PDF version of these notes is [available here](../../../../media/2015-09-15-IGSN-Metadata-Kernel-Working-Meeting.pdf)
+
 
 # Tuesday September 15th, 9:00-17:00 PDT #
 

@@ -23,4 +23,4 @@ General Assembly 2015 at the AGU
 
 ## Notes ##
 
-  - The notes are available here:
+  - The notes are available here: [General Assembly 2015 Notes](../../../../media/2015-12-13-general-assembly.pdf)
