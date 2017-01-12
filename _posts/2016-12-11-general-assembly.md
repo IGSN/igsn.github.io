@@ -32,4 +32,4 @@ General Assembly 2016 at the AGU Fall Meeting
 
 ## Notes ##
 
-  - The notes are available here: [General Assembly 2016 Notes](../../../../media/igsn_general_assembly_2016.pdf)
+  - The notes are available here: [General Assembly 2016 Notes](../../../../media/2016-12-11-general-assembly.pdf)
