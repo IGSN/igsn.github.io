@@ -8,6 +8,8 @@ title: IGSN e.V. Statutes
 
 Final Version of 17 June 2013
 
+Note: This is the English language translation of the statutes, the legally binding version is the [German language version](/media/2013-06-17-IGSN-eV-Statutes-DE.pdf) of the statutes.
+
 ## § 1 Name, registered office, fiscal year ##
 
   1. The name of the Association is "IGSN – International GeoSample Number Implementation Organization". It is to be registered in the register of associations on the basis of the German version of these Statutes; after registration, its name will be "IGSN – International GeoSample Number Implementation Organization e.V.". (Note: The Association was registered on 2012-08-31 by the Magistrate Court Potsdam, Germany. VR 8011)
@@ -163,7 +165,7 @@ Potsdam, 17 June 2013
 
 # Members #
 
-IGSN Members, in alphabetical order (13 December 2015)
+IGSN Members, in alphabetical order (11 December 2016)
 
 [Arizona Geological Survey](http://www.azgs.az.gov), Tucson, AZ, USA. Contact: M.L. Allison, 
 
@@ -175,6 +177,8 @@ IGSN Members, in alphabetical order (13 December 2015)
 
 [Curtin University of Technology](http://jdlc.edu.au/), Perth, WA, Australia. Contact: B. McInnes 
 
+[EDYTEM](http://edytem.univ-savoie.fr/), Le Bourget du Lac, France. Contact: F. Arnaud
+
 [Geoscience Australia](http://www.ga.gov.au/), Canberra, ACT, Australia. Contact: I. Bastrakova 
 
 [German Research Centre for Geosciences (GFZ)](http://www.gfz-potsdam.de), Potsdam, Germany. Contact: U. Harms
@@ -185,15 +189,19 @@ IGSN Members, in alphabetical order (13 December 2015)
 
 [Korea Institute of Geoscience and Mineral Resources (KIGAM)](https://www.kigam.re.kr/english/), Daejeoun, Korea. Contact: Jongyu Han. 
 
-[MARUM Center for Marine Environmental Studies](http://www.marum.de) at University of Bremen, Bremen, Germany. Contact: H.-J. Wallrabe-Adams
+[MARUM Center for Marine Environmental Studies](http://www.marum.de) at University of Bremen, Bremen, Germany. Contact: U. Röhl
 
 [LacCore](http://lrc.geo.umn.edu/laccore) National Lacustrine Core Facility, University of Minnesota, Minneapolis, MN, USA. Contact: A. Noren
 
 [Oregon State University](http://www.orst.edu), Corvallis, OR, USA. Contact: A. Koppers
 
+[Scripps Institution of Oceanography](http://www.sio.ucsd.edu), La Jolla, CA, USA. Contact: C. Constable
+
+[SAEON](http://www.saeon.ac.za/), Pretoria, South Africa. Contact: W. Hugo
+
 [TWC](http://tw.rpi.edu/) Tetherless World Constellation at Rensselaer Polytechnic Institute (RPI), Troy, NY, USA. Contact: P. Fox 
 
-[Scripps Institution of Oceanography](http://www.sio.ucsd.edu), La Jolla, CA, USA. Contact: C. Constable
+[Christian Albrechts Universität Kiel](https://www.kms.uni-kiel.de/en), Kiel, Germany. Contact: D. Fleischer
 
 [Woods Hole Oceanographic Institution](http://www.whoi.edu/) Woods Hole, MA, USA. Contact: E. Bailey 
 
