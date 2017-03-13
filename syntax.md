@@ -34,25 +34,40 @@ Characters a-z and A-Z in the IGSN string are case insensitive (e.g. ABC is iden
 
 Characters that may be confused with digits should be avoided (I = %x49, O = %x4F, i = %x69, o = %x6F)
 
-# Examples #
+# Resolving IGSN #
+
+## Standard IGSN Resolver ##
+
+The standard way to resolve IGSN is through http://igsn.org/<igsn>
+
+    Example (IGSN):        BGRB5054RX05201
+	Resulting IGSN URI:    <http://igns.org/BGRB5054RX05201>
+	
+## Native Handle.net and Alternative Resolvers ##
 
 The resolvable handle URI of an IGSN is made up of three components: a resolving service (<http://dx.doi.org> or <http://hdl.handle.net>), the IGSN Handle prefix 10273, and the IGSN, separated by a forward slash. It is concatenated by the following rule:
 
     <resolver>/<prefix>/<igsn>
 	
-where \<resolver\>/\<prefix\> is <http://hdl.handle.net/10273> and  \<igsn\> is the value (IGSN) assigned by an [Allocating Agent](../agents). As an Example, we take a sample from the Susquehanna Shale Hills Critical Zone Observatory, registered through SESAR on behalf of the Department of Geosciences, Pennsylvania State University.
+where \<resolver\>/\<prefix\> is <http://hdl.handle.net/10273> and  \<igsn\> is the value (IGSN) assigned by an [Allocating Agent](../agents). This is the native Handle.net resolver for IGSN. The example used above would be <http://hdl.handle.net/10273/BGRB5054RX05201>.
+
+# IGSN Examples #
 
 ## Example from IEDA ##
+
+A sample from the Susquehanna Shale Hills Critical Zone Observatory, registered through SESAR on behalf of the Department of Geosciences, Pennsylvania State University
 	
     Example (IGSN):      SSH000SUA
 
-Applying the above rule, the resulting resulting URI is <http://hdl.handle.net/10273/SSH000SUA> (or using the DOI resolving service <http://dx.doi.org/10273/SSH000SUA>)
+Applying the above rule, the resulting resulting URI is <http://igns.org/SSH000SUA> (or using the DOI resolving service <http://dx.doi.org/10273/SSH000SUA>)
 	
 ## Example from Geoscience Australia ##
 
+A sample from the collection of Geoscience Australia.
+
     Example (IGSN):        AU1101
 
-Resulting handle URI:  <http://hdl.handle.net/10273/AU1101>
+Resulting handle URI:  <http://igns.org/AU1101>
 
 ## Example from MARUM ##
 
@@ -60,13 +75,13 @@ Example from the International Scientific Continental Drilling Program (ICDP), r
 
     Example (IGSN):        MBCR5034RC57001
 	
-Resulting handle URI:  <http://hdl.handle.net/10273/MBCR5034RC57001>
+Resulting handle URI:  <http://igns.org/MBCR5034RC57001>
 
 Example from the core repository of the German Federal Geological Survey (BGR), registered by MARUM on behalf of BGR:
 
     Example (IGSN):        BGRB5054RX05201
 
-Resulting handle URI:  <http://hdl.handle.net/10273/BGRB5054RX05201>
+Resulting handle URI:  <http://igns.org/BGRB5054RX05201>
 	
 The sample [BGRB5054RX05201](http://hdl.handle.net/10273/BGRB5054RX05201) was derived from [ICDP5054ESYI201](http://hdl.handle.net/10273/ICDP5054ESYI201).
 
@@ -76,13 +91,13 @@ Example from the International Scientific Continental Drilling Program (ICDP), r
 
 	Example (IGSN):        ICDP5054ESYI201
 
-Resulting handle URI:  <http://hdl.handle.net/10273/ICDP5054ESYI201>
+Resulting handle URI:  <http://igns.org/ICDP5054ESYI201>
 
 Example of assigning an IGSN to a drill hole (sampling feature):
 
     Example (IGSN):        ICDP5054EEW1001
 
-Resulting handle URI:  <http://hdl.handle.net/10273/ICDP5054EEW1001>
+Resulting handle URI:  <http://igns.org/ICDP5054EEW1001>
 
 ## Example from CSIRO ##
 
@@ -90,13 +105,13 @@ Example from the collection of CSIRO at the Australian Resources Research Centre
 
     Example (IGSN):        CSRWA275
 	
-Resulting handle URI:  <http://hdl.handle.net/10273/CSRWA275>
+Resulting handle URI:  <http://igns.org/CSRWA275>
 
 The above example is part of a sub-collection with its own IGSN:
 
     Example (IGSN):        CSRWASC00001
 	
-Resulting Handle URI:   <http://hdl.handle.net/10273/CSRWASC00001>
+Resulting Handle URI:   <http://igns.org/CSRWASC00001>
 	
 	
 	
@@ -108,7 +123,7 @@ IGSN e.V., Allocating Agents and academic publishers ask authors to tag IGSNs in
 
 In a journal article or manuscript a sample identified by IGSN SSH000SUA may look like this (tagged IGSN):
 
-[IGSN: SSH000SUA](http://hdl.handle.net/10273/SSH000SUA)
+[IGSN: SSH000SUA](http://igns.org/SSH000SUA)
 
 Tagging IGSNs in manuscripts in this way allows publishers to automatically link samples identified by IGSN to their respective descriptive pages on the web. See also <http://www.geosamples.org/news/tag> for more information about journals using IGSN.
 
