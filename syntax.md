@@ -127,6 +127,8 @@ In a journal article or manuscript a sample identified by IGSN SSH000SUA may loo
 
 Tagging IGSNs in manuscripts in this way allows publishers to automatically link samples identified by IGSN to their respective descriptive pages on the web. See also <http://www.geosamples.org/news/tag> for more information about journals using IGSN.
 
+Since May 2017 IGSN can be included in the asset tabs of all Copernicus earth science journals. The use of IGSN is also endorsed by the [Coalition for Publishing Data in the Earth and Space Sciences](http://www.copdess.org/).
+
 An example of a publication using live IGSNs can be found here:
 
   * Dere, A. L., T. S. White, R. H. April, B. Reynolds, T. E. Miller, E. P. Knapp, L. D. McKay, and S. L. Brantley (2013), Climate dependence of feldspar weathering in shale soils along a latitudinal gradient, *Geochimica et Cosmochimica Acta*, **122**, 101–126, <http://dx.doi.org/10.1016/j.gca.2013.08.001>.
