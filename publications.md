@@ -2,8 +2,25 @@
 layout: page
 title: Literature and Publications
 ---
+# Using IGSN in Publications #
 
-# Publications relating to IGSN #
+IGSN e.V., Allocating Agents and academic publishers ask authors to tag IGSNs in their manuscripts. This will enable publishers to link the IGSN number to the respective samples sample when the paper is published online. To tag an IGSN, please use the syntax
+
+    IGSN: <IGSN> 
+
+In a journal article or manuscript a sample identified by IGSN SSH000SUA may look like this (tagged IGSN):
+
+[IGSN: SSH000SUA](http://igsn.org/SSH000SUA)
+
+Tagging IGSNs in manuscripts in this way allows publishers to automatically link samples identified by IGSN to their respective descriptive pages on the web. See also <http://www.geosamples.org/news/tag> for more information about journals using IGSN.
+
+Since May 2017 IGSN can be included in the asset tabs of all Copernicus earth science journals. The use of IGSN is also endorsed by the [Coalition for Publishing Data in the Earth and Space Sciences](http://www.copdess.org/).
+
+An example of a publication using live IGSNs can be found here:
+
+  * Dere, A. L., T. S. White, R. H. April, B. Reynolds, T. E. Miller, E. P. Knapp, L. D. McKay, and S. L. Brantley (2013), Climate dependence of feldspar weathering in shale soils along a latitudinal gradient, *Geochimica et Cosmochimica Acta*, **122**, 101–126, <http://dx.doi.org/10.1016/j.gca.2013.08.001>.
+
+# Publications about IGSN #
 
 * Bastrakova, I., J. F. Klump, B. McInnes, L. A. I. Wyborn, and A. Brown (2015), IGSN at Work in the Land Down Under: Exploiting an International Sample Identifier System to Enhance Reproducibility of Australian Geochemcial and Geochronological Data, p. IN33A–1786, San Francisco, CA.
 * Golodoniuc, P., J. F. Klump, L. A. I. Wyborn, A. Devaraju, and R. Fraser (2015), Sample Identification at Scale – Implementing IGSN in a Research Agency, p. IN33A–1785, San Francisco, CA.
