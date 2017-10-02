@@ -45,10 +45,15 @@ The source code of the OAI-PMH provider for the syndication of metadata from the
 The source code for the search component of the MDS can be found here: <https://github.com/IGSN/search>
 
 
-## Events ##
+## IGSN Technical Committee ##
 
+The technical development of the IGSN system is guided by the IGSN technical committee. Its members are (as of 2017-10-02):
 
-First IGSN-DataCite-ORCID [Code Sprint 2013](../2013/07/01/IGSN-code-sprint) (Potsdam, 2013-07-01 to 2013-07-02)
-
-IGSN [Metadata Kernel Workshop](../2015/09/15/IGSN-Metadata-Kernel-Working-Meeting) (Los Angeles, 2015-09-15 to 2015-09-16)
+  - Jens Klump (CSIRO)
+  - Anusuriya Devaraju (CSIRO)
+  - Damian Ulbricht (GFZ Potsdam)
+  - Kirsten Elger (GFZ Potsdam)
+  - Irina Bastrakove (Geoscience Australia)
+  - Nicholas Car (Geoscience Australia)
+  - 
 
