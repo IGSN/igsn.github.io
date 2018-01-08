@@ -15,11 +15,17 @@ Members will be charged an annual membership fee. The amount and due date of ann
 
 # Members of IGSN e.V. #
 
-IGSN Members, in alphabetical order (11 December 2016)
+IGSN Members, in alphabetical order (10 December 2017)
 
 [Arizona Geological Survey](http://www.azgs.az.gov), Tucson, AZ, USA. Contact:  
 
+[Australian National Data Service (ANDS)](http://www.ands.org.au), Canberra ACT, Australia. Contact: A. Burton
+
 [Boise State University](http://www.boisestate.edu), Boise, ID, USA. Contact: W. Snyder
+
+[British Geological Survey (BGS)](http://www.bgs.ac.uk), Nottingham, UK. Contact: H. Glaves
+
+[Christian Albrechts Universität Kiel](https://www.kms.uni-kiel.de/en), Kiel, Germany. Contact: D. Fleischer
 
 [City College of New York](http://www.ccny.cuny.edu), New York, NY, USA. Contact: M. Piasecki
 
@@ -34,6 +40,8 @@ IGSN Members, in alphabetical order (11 December 2016)
 [German Research Centre for Geosciences (GFZ)](http://www.gfz-potsdam.de), Potsdam, Germany. Contact: U. Harms
 
 [GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel](http://www.geomar.de), Kiel, Germany. Contact: D. Maicher 
+
+[Institut Français de Recherche pour l'Exploitation de la Mer (IFREMER)](http://www.ifremer.fr), Brest, France. Contact: V. Tosello  
 
 [Integrated Earth Science Data and Applications (IEDA)](http://www.iedadata.org) at Lamont-Doherty Earth Observatory, Palisades, NY, USA. Contact: K. Lehnert
 
@@ -51,12 +59,10 @@ IGSN Members, in alphabetical order (11 December 2016)
 
 [TWC](http://tw.rpi.edu/) Tetherless World Constellation at Rensselaer Polytechnic Institute (RPI), Troy, NY, USA. Contact: P. Fox 
 
-[Christian Albrechts Universität Kiel](https://www.kms.uni-kiel.de/en), Kiel, Germany. Contact: D. Fleischer
+[United States Geological Survey (USGS)](http://www.usgs.gov), Denver, CO, USA. Contact: L. Powers
 
 [Woods Hole Oceanographic Institution](http://www.whoi.edu/) Woods Hole, MA, USA. Contact: E. Bailey 
 
 # Observers #
 
 [European Geosciences Union](http://www.egu.eu), Grenoble, France. Contact: N. Arndt
-
-[United States Geological Survey (USGS)](http://www.usgs.gov), Reston, VA, USA. Contact: S. Bristol 
