@@ -19,9 +19,9 @@ IGSN Members, in alphabetical order (10 December 2017)
 
 [City College of New York](http://www.ccny.cuny.edu), New York, NY, USA. Contact: M. Piasecki
 
-[CSIRO](http://www.csiro.au/en/Research/MRF) Commonwealth Scientific and Industrial Research Organisation, Perth, WA, Australia. Contact: J. Klump 
+[Centre national de la recherche scientifique](http://www.cnrs.fr/), Paris, France. Contact: M. Calzas
 
-[Curtin University of Technology](http://jdlc.edu.au/), Perth, WA, Australia. Contact: B. McInnes 
+[CSIRO](http://www.csiro.au/en/Research/MRF) Commonwealth Scientific and Industrial Research Organisation, Perth, WA, Australia. Contact: J. Klump 
 
 [EDYTEM](http://edytem.univ-savoie.fr/), Le Bourget du Lac, France. Contact: F. Arnaud
 
@@ -54,6 +54,8 @@ IGSN Members, in alphabetical order (10 December 2017)
 [Woods Hole Oceanographic Institution](http://www.whoi.edu/) Woods Hole, MA, USA. Contact: E. Bailey 
 
 # Observers #
+
+[Curtin University of Technology](http://jdlc.edu.au/), Perth, WA, Australia. Contact: B. McInnes 
 
 [European Geosciences Union](http://www.egu.eu), Grenoble, France. Contact: N. Arndt
 
