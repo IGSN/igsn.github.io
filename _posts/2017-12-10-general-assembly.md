@@ -1,6 +1,7 @@
-Layout | Title |
---- | --- |
-Post | 2017-12-10 General Assembly|
+---
+layout: post
+title: 2017-12-10 General Assembly
+---
 
 General Assembly 2017 at the AGU Fall Meeting
 10 Dec 2017, 2:00pm Central Time
