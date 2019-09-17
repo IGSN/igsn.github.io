@@ -35,4 +35,4 @@ Washington, DC
 
 ## Notes ##
 
-  - The notes are available here: [General Assembly 2018 Notes]()
+  - The notes are available here: [General Assembly 2018 Notes](../../../../media/IGSN e.V. general assembly_12_9_2018.pdf)
