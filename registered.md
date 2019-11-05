@@ -4,7 +4,7 @@ title: Registered IGSN Namespaces
 ---
 
 
-The following IGSN namespaces have been registered as of 2016-10-17
+The following IGSN namespaces have been registered as of 2019-11-05
 
 Prefix | Allocators | Created
 ------ | ---------- | -------
