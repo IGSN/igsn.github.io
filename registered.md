@@ -4,7 +4,7 @@ title: Registered IGSN Namespaces
 ---
 
 
-The following IGSN namespaces have been registered as of 2019-11-05
+The following IGSN namespaces have been registered as of 2019-11-06
 
 Prefix | Allocators | Created
 ------ | ---------- | -------
@@ -185,6 +185,7 @@ Prefix | Allocators | Created
 10273/SRH | IEDA | 2013-06-07T08:27:28.000+02:00
 10273/SRT | IEDA | 2014-05-19T08:43:39.000+02:00
 10273/SRL | IEDA | 2017-04-10 20:50 CEST
+10273/SSDP | GFZ | 2019-11-06 11:02 CET
 10273/SSH | IEDA | 2013-06-07T08:27:41.000+02:00
 10273/STO | IEDA | 2013-06-07T08:16:40.000+02:00
 10273/TAH | IEDA | 2017-04-10 20:50 CEST
