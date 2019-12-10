@@ -14,12 +14,11 @@ This service is open to everyone and is meant to be accessed by OAI-PMH complian
 
 All Allocating Agents are required to provide their sample catalogues through OAI-PMH. The base URLs of these services are:
 
-*   CSIRO
-*   Curtin University
-*   Geoscience Australia
-*   GFZ Potsdam
-*   IEDA
-*   MARUM
+*   CSIRO: https://igsn.csiro.au/csiro/service/oai
+*   ARDC: https://handle.ands.org.au/igsn/api/service/30/oai
+*   Geoscience Australia: http://pid.geoscience.gov.au/sample/oai
+*   GFZ Potsdam: http://doidb.wdc-terra.org/igsnaaoaip/oai
+
 
 # What is OAI-PMH? #
 
