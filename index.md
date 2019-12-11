@@ -35,9 +35,9 @@ The IGSN is a persistent unique identifier for physical samples and specimens th
 
 # IGSN - International GeoSample Number Implementation Organization e.V. #
 
-The IGSN eV is an international non-profit organization that aims to implement and promote standard methods for locating, identifying, and citing physical samples collected from our natural environment, by operating an international registration service for the International Geo Sample Number (IGSN) with a distributed, sustainable infrastructure for use by and benefit to its members.
+The IGSN eV is an international non-profit organization that aims to implement and promote standard methods for locating, identifying, and citing physical samples collected from our natural environment, by operating an international registration service for the IGSN with a distributed, sustainable infrastructure for use by and benefit to its members.
 
-  * [Statutes](../statutes) of the International GeoSample Number Implementation Organization e.V. (IGSN e.V.)
+  * [Statutes](../statutes) of the IGSN Implementation Organization e.V. (IGSN e.V.)
   * [Membership](../membership) list and how to become a member of IGSN e.V.
   * [Allocating Agents](../agents): Information about function and duties of IGSN Allocating Agents.
   * [Minutes](../minutes) from meetings and telecons
