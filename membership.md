@@ -9,7 +9,7 @@ IGSN Members, in alphabetical order (10 December 2017)
 
 [Arizona Geological Survey](http://www.azgs.az.gov), Tucson, AZ, USA. Contact:  
 
-[Australian National Data Service (ANDS)](http://www.ands.org.au), Canberra ACT, Australia. Contact: A. Burton
+[Australian Research Data Commons (ARDC)](https://ardc.edu.au/), Canberra ACT, Australia. Contact: A. Burton
 
 [Boise State University](http://www.boisestate.edu), Boise, ID, USA. Contact: W. Snyder
 
@@ -25,7 +25,7 @@ IGSN Members, in alphabetical order (10 December 2017)
 
 [EDYTEM](http://edytem.univ-savoie.fr/), Le Bourget du Lac, France. Contact: F. Arnaud
 
-[Geoscience Australia](http://www.ga.gov.au/), Canberra, ACT, Australia. Contact: I. Bastrakova 
+[Geoscience Australia](http://www.ga.gov.au/), Canberra, ACT, Australia. Contact: D. Lescinsky 
 
 [German Research Centre for Geosciences (GFZ)](http://www.gfz-potsdam.de), Potsdam, Germany. Contact: U. Harms
 
