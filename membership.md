@@ -55,8 +55,6 @@ IGSN Members, in alphabetical order (10 December 2017)
 
 # Observers #
 
-[Curtin University of Technology](http://jdlc.edu.au/), Perth, WA, Australia. Contact: B. McInnes 
-
 [European Geosciences Union](http://www.egu.eu), Grenoble, France. Contact: N. Arndt
 
 # How to become a member #
