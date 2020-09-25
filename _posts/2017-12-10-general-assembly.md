@@ -31,4 +31,4 @@ Jackson Room, Hilton New Orleans Riverside, New Orleans, Louisiana
 
 ## Notes ##
 
-  - The notes are available here: [General Assembly 2017 Notes](http://www.igsn.org/sites/www.igsn.org/files/20171009%20IGSN%20General%20Assembly%20Notes.pdf)
+  - The notes are available here: [General Assembly 2017 Notes](../../../../media/20171009 IGSN General Assembly Notes.pdf)
