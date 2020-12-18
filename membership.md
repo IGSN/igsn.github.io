@@ -5,19 +5,13 @@ title: Members
 
 # Members of IGSN e.V. #
 
-IGSN Members, in alphabetical order (10 December 2017)
-
-[Arizona Geological Survey](http://www.azgs.az.gov), Tucson, AZ, USA. Contact:  
+IGSN Members, in alphabetical order (18 December 2020)
 
 [Australian Research Data Commons (ARDC)](https://ardc.edu.au/), Canberra ACT, Australia. Contact: A. Burton
-
-[Boise State University](http://www.boisestate.edu), Boise, ID, USA. Contact: W. Snyder
 
 [British Geological Survey (BGS)](http://www.bgs.ac.uk), Nottingham, UK. Contact: H. Glaves
 
 [Christian Albrechts Universität Kiel](https://www.kms.uni-kiel.de/en), Kiel, Germany. Contact: D. Fleischer
-
-[City College of New York](http://www.ccny.cuny.edu), New York, NY, USA. Contact: M. Piasecki
 
 [Centre national de la recherche scientifique](http://www.cnrs.fr/), Paris, France. Contact: M. Calzas
 
@@ -39,19 +33,24 @@ IGSN Members, in alphabetical order (10 December 2017)
 
 [MARUM Center for Marine Environmental Studies](http://www.marum.de) at University of Bremen, Bremen, Germany. Contact: U. Röhl
 
-[LacCore](http://lrc.geo.umn.edu/laccore) National Lacustrine Core Facility, University of Minnesota, Minneapolis, MN, USA. Contact: A. Noren
 
 [Oregon State University](http://www.orst.edu), Corvallis, OR, USA. Contact: A. Koppers
-
-[Scripps Institution of Oceanography](http://www.sio.ucsd.edu), La Jolla, CA, USA. Contact: C. Constable
-
-[SAEON](http://www.saeon.ac.za/), Pretoria, South Africa. Contact: W. Hugo
-
-[TWC](http://tw.rpi.edu/) Tetherless World Constellation at Rensselaer Polytechnic Institute (RPI), Troy, NY, USA. Contact: P. Fox 
 
 [United States Geological Survey (USGS)](http://www.usgs.gov), Denver, CO, USA. Contact: L. Powers
 
 [Woods Hole Oceanographic Institution](http://www.whoi.edu/) Woods Hole, MA, USA. Contact: E. Bailey 
+
+# Affiliate Members #
+
+[Arizona Geological Survey](http://www.azgs.az.gov), Tucson, AZ, USA. Contact:  
+
+[Boise State University](http://www.boisestate.edu), Boise, ID, USA. Contact: W. Snyder
+
+[LacCore](http://lrc.geo.umn.edu/laccore) National Lacustrine Core Facility, University of Minnesota, Minneapolis, MN, USA. Contact: A. Noren
+
+[Scripps Institution of Oceanography](http://www.sio.ucsd.edu), La Jolla, CA, USA. Contact: C. Constable
+
+[TWC](http://tw.rpi.edu/) Tetherless World Constellation at Rensselaer Polytechnic Institute (RPI), Troy, NY, USA. Contact: P. Fox 
 
 # Observers #
 
