@@ -28,5 +28,5 @@ San Francisco, CA
 
 ## Notes ##
 
-  - The notes are available here: [General Assembly 2019 Notes](../../../../media/IGSN e.V. general assembly_12_8_2019.pdf)
-  - The report of the financial officer is available here: [IGSN Financial Report 2019](../../../../media/IGSN-financial-report-2019.pdf)
+  - The notes are available [here](https://github.com/IGSN/igsn.github.io/blob/master/media/IGSN%20e.V.%20general%20assembly_12_8_2019.pdf).
+  - The report of the financial officer is available [here](../../../../media/IGSN-financial-report-2019.pdf).
