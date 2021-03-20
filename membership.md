@@ -11,13 +11,11 @@ IGSN Members, in alphabetical order (18 December 2020)
 
 [British Geological Survey (BGS)](http://www.bgs.ac.uk), Nottingham, UK. Contact: H. Glaves
 
-[Christian Albrechts Universität Kiel](https://www.kms.uni-kiel.de/en), Kiel, Germany. Contact: D. Fleischer
+[Christian Albrechts Universität Kiel](https://www.kms.uni-kiel.de/en), Kiel, Germany. Contact: T. Paul-Stüve
 
-[Centre national de la recherche scientifique](http://www.cnrs.fr/), Paris, France. Contact: M. Calzas
+[Centre national de la recherche scientifique](http://www.cnrs.fr/), Paris, France. Contact: J. Escartin
 
 [CSIRO](http://www.csiro.au/en/Research/MRF) Commonwealth Scientific and Industrial Research Organisation, Perth, WA, Australia. Contact: J. Klump 
-
-[EDYTEM](http://edytem.univ-savoie.fr/), Le Bourget du Lac, France. Contact: F. Arnaud
 
 [Geoscience Australia](http://www.ga.gov.au/), Canberra, ACT, Australia. Contact: D. Lescinsky 
 
@@ -29,32 +27,30 @@ IGSN Members, in alphabetical order (18 December 2020)
 
 [Integrated Earth Science Data and Applications (IEDA)](http://www.iedadata.org) at Lamont-Doherty Earth Observatory, Palisades, NY, USA. Contact: K. Lehnert
 
-[Korea Institute of Geoscience and Mineral Resources (KIGAM)](https://www.kigam.re.kr/english/), Daejeoun, Korea. Contact: Jongyu Han. 
+[Korea Institute of Geoscience and Mineral Resources (KIGAM)](https://www.kigam.re.kr/english/), Daejeoun, Korea. Contact: J. Han. 
 
-[MARUM Center for Marine Environmental Studies](http://www.marum.de) at University of Bremen, Bremen, Germany. Contact: U. Röhl
-
+[MARUM Center for Marine Environmental Studies](http://www.marum.de) at University of Bremen, Bremen, Germany. Contact: V. Bender
 
 [Oregon State University](http://www.orst.edu), Corvallis, OR, USA. Contact: A. Koppers
 
 [United States Geological Survey (USGS)](http://www.usgs.gov), Denver, CO, USA. Contact: L. Powers
 
-[Woods Hole Oceanographic Institution](http://www.whoi.edu/) Woods Hole, MA, USA. Contact: E. Bailey 
+[Woods Hole Oceanographic Institution](http://www.whoi.edu/) Woods Hole, MA, USA. Contact: A. Miller
 
 # Affiliate Members #
 
-[Arizona Geological Survey](http://www.azgs.az.gov), Tucson, AZ, USA. Contact:  
+[Boise State University](http://www.boisestate.edu), Boise, ID, USA. Contact: M. Schmitz
 
-[Boise State University](http://www.boisestate.edu), Boise, ID, USA. Contact: W. Snyder
+[City College of New York, USA](https://www.ccny.cuny.edu/), New York City, NY, USA. Contact: M. Piasecki.
+
+[U.S. Department of Energy’s (DOE), Environmental System Science Data Infrastructure for a Virtual Ecosystem](https://ess-dive.lbl.gov/) (ESS-DIVE), USA. Contact: D. Agarwal
 
 [LacCore](http://lrc.geo.umn.edu/laccore) National Lacustrine Core Facility, University of Minnesota, Minneapolis, MN, USA. Contact: A. Noren
 
-[Scripps Institution of Oceanography](http://www.sio.ucsd.edu), La Jolla, CA, USA. Contact: C. Constable
+[Scripps Institution of Oceanography](http://www.sio.ucsd.edu), La Jolla, CA, USA. Contact: Scripps Deputy Director of Research
 
 [TWC](http://tw.rpi.edu/) Tetherless World Constellation at Rensselaer Polytechnic Institute (RPI), Troy, NY, USA. Contact: P. Fox 
 
-# Observers #
-
-[European Geosciences Union](http://www.egu.eu), Grenoble, France. Contact: N. Arndt
 
 # How to become a member #
 
