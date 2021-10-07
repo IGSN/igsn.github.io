@@ -18,7 +18,7 @@ This wiki documents the organisation and technical aspects of the IGSN. General 
 # IGSN and DataCite #
 
 In September 2021, IGSN and DataCite signed a Memorandum of Agreement between the two organisations towards a partnership that intends to support the global adoption, implementation, and use of physical sample identifiers. This collaboration is aligned with our respective missions and brings together the strengths of each organization for the benefit of the research community.   
-[https://blog.datacite.org/bringing-together-communities-igsn-and-datacite/]  
+<https://blog.datacite.org/bringing-together-communities-igsn-and-datacite/>  
 
 
 # IGSN #
