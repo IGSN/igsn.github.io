@@ -15,15 +15,25 @@ This wiki documents the organisation and technical aspects of the IGSN. General 
   * [Organisation and Governance](../organisation): How does the governance of IGSN work? What is the IGSN Implementation Organization e.V.?
   * [Membership](../membership): Which organisations are members of IGSN e.V.?
 
-# IGSN - International GeoSample Number #
+# IGSN and DataCite #
 
-The IGSN is a persistent unique identifier for physical samples and specimens that eliminates the problems associated with the ambiguous naming of samples. The IGSN registration service will facilitate the discovery, access, and sharing of samples, ensure preservation and access of sample data, aid identification of samples in the literature, and advance the exchange of digital sample data among interoperable data systems, thus maximizing the utility of samples for research, education, and society.
+In September 2021, IGSN and DataCite signed a Memorandum of Agreement between the two organisations towards a partnership that intends to support the global adoption, implementation, and use of physical sample identifiers. This collaboration is aligned with our respective missions and brings together the strengths of each organization for the benefit of the research community.   
+[https://blog.datacite.org/bringing-together-communities-igsn-and-datacite/]  
+
+
+# IGSN #
+
+The IGSN is a persistent unique identifier for physical samples and specimens that eliminates the problems associated with the ambiguous naming of samples. Because of its origin from the geosciences, its original name was the Internationa Geo Sample Number. Since then the scope of IGSN has been expanded to any physical specimen. 
+
+The IGSN registration service will facilitate the discovery, access, and sharing of samples, ensure preservation and access of sample data, aid identification of samples in the literature, and advance the exchange of digital sample data among interoperable data systems, thus maximizing the utility of samples for research, education, and society.
 
   * [Syntax](../syntax): Guidelines for forming IGSN for registration.
   * [Metadata](../metadata): Metadata for registration of IGSN and for description of samples.
   * [Namespaces](../namespaces): This is how we govern namespaces for IGSN. List of IGSN namespaces currently in use.
 
 # IGSN Technical Implementation #
+
+**Please note!** IGSN and DataCite have entered an agreement that will transfer the service of mining IGSN identifiers into the DataCite infrastructure. Many technical details outlined in this wiki will change after December 2021.
 
   * [System Architecture](../system): Learn about the technical architecture underlying IGSN.
   * IGSN software components for use by IGSN Allocating Agents:

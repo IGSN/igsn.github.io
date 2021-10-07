@@ -5,6 +5,8 @@ title: IGSN Registration API
 
 ## IGSN Registry API ##
 
+**Please note!** IGSN and DataCite have entered an agreement that will transfer the service of mining IGSN identifiers into the DataCite infrastructure. Many technical details outlined in this wiki will change after December 2021.
+
 The IGSN registration service is located at <https://doidb.wdc-terra.org/igsn>
 
 ## Architecture ##
