@@ -5,9 +5,9 @@ title: Members
 
 # Members of IGSN e.V. #
 
-IGSN Members, in alphabetical order (18 December 2020)
+IGSN Members, in alphabetical order (13 December 2021)
 
-[Australian Research Data Commons (ARDC)](https://ardc.edu.au/), Canberra ACT, Australia. Contact: A. Burton
+[Australian Research Data Commons (ARDC)](https://ardc.edu.au/), Canberra, ACT, Australia. Contact: A. Burton
 
 [British Geological Survey (BGS)](http://www.bgs.ac.uk), Nottingham, UK. Contact: H. Glaves
 
@@ -28,6 +28,8 @@ IGSN Members, in alphabetical order (18 December 2020)
 [Integrated Earth Science Data and Applications (IEDA)](http://www.iedadata.org) at Lamont-Doherty Earth Observatory, Palisades, NY, USA. Contact: K. Lehnert
 
 [Korea Institute of Geoscience and Mineral Resources (KIGAM)](https://www.kigam.re.kr/english/), Daejeoun, Korea. Contact: J. Han. 
+
+[Lithodat Pty. Ltd.](https://lithodat.com/), Melbourne, VIC, Australia. Contact: F. Kohlmann
 
 [MARUM Center for Marine Environmental Studies](http://www.marum.de) at University of Bremen, Bremen, Germany. Contact: V. Bender
 
