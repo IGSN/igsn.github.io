@@ -43,16 +43,16 @@ IGSN does **not prescribe a standard metadata scheme**. Metadata schemes in comm
 
 This section describes the entities and roles in the IGSN [organisational structure](../statutes).
 
-   * Allocating Agent: An [Allocating Agent](../agents) ([Statutes §3.1](../statutes)) is a member institution which registers IGSNs in the IGSN registry and resolver service.
+   * IGSN Agent: An [IGSN Agent](../agents) ([Statutes §3.1](../statutes)) is a member institution which registers IGSNs in the IGSN registry and resolver service.
    * The IGSN Implementing Organization e.V. operates the IGSN registry and resolver servie on behalf of the IGSN members ([Statutes §2.2.2](../statutes)).
    * The Managing Agent ([Statutes §3.2](../statutes)) is entrusted with the operation of the IGSN Office and with the day-to-day operation of the IGSN registration Agency.
 
 
 ## International ##
 
-A core element of the implementation of globally unique and persistent identifiers for physical sample materials is a handle server ([Handle System](https://en.wikipedia.org/wiki/Handle_System)) to resolve IGSN handles to the URL of the respective sample description at the collection/repository. This server is operated by the IGSN Implementation Organisation (IGSN e.V.). The constitution of the IGSN Implementation Organisation as an incorporated not-for-profit association under German law was chosen to provide a legal framework for the long-term operation of the system.
+A core element of the implementation of globally unique and persistent identifiers for physical sample materials is a persistent identifier to resolve IGSN IDs to the URL of the respective sample description at the collection/repository. This service is operated by DataCite. 
 
-At this level, the IGSN web service requires only very limited metadata, e.g. IGSN/URL pair, registrant, date of registration, etc.
+The [IGSN Impementation Organization](http://www.igsn.org) is set up to implement and promote standard methods for identifying, citing, and locating physical samples together with its user [communities](../communities).
 
 
 ## Communities ##
@@ -65,6 +65,6 @@ Samples and collections are embedded into specific user communities and organisa
 
 *Simplified system architecture of the IGSN registration.*
 
-Clients register samples together with metadata through their Allocating Agents. The Allocating Agents registers the IGSN at the IGSN Registration Agency and keeps a catalogue of all samples registered through by this agent. The catalogues of registered samples are harvested and compiled into metadata portals to make samples searchable and accessible.
+Clients register samples together with metadata through their IGSN Agents. The IGSN Agents registers the IGSN at the IGSN Registration Agency and keeps a catalogue of all samples registered through by this agent. The catalogues of registered samples are harvested and compiled into metadata portals to make samples searchable and accessible.
 
 

@@ -4,30 +4,19 @@ title: Literature and Publications
 ---
 # Using IGSN in Publications #
 
-IGSN e.V., Allocating Agents and academic publishers ask authors to tag IGSNs in their manuscripts. This will enable publishers to link the IGSN number to the respective samples sample when the paper is published online. To tag an IGSN, please use the syntax
-
-    IGSN: <IGSN> 
-
-In a journal article or manuscript a sample identified by IGSN SSH000SUA may look like this (tagged IGSN):
-
-[IGSN: SSH000SUA](http://igsn.org/SSH000SUA)
-
-Tagging IGSNs in manuscripts in this way allows publishers to automatically link samples identified by IGSN to their respective descriptive pages on the web. See also <http://www.geosamples.org/news/tag> for more information about journals using IGSN.
+The transition of IGSN into the DataCite system will require changes of how IGSNs will be embedded in publications. More detailed instructions will be published here in the near future.
 
 Since May 2017 IGSN can be included in the asset tabs of all Copernicus earth science journals. The use of IGSN is also endorsed by the [Coalition for Publishing Data in the Earth and Space Sciences](http://www.copdess.org/).
 
-An example of a publication using live IGSNs can be found here:
-
-  * Dere, A. L., T. S. White, R. H. April, B. Reynolds, T. E. Miller, E. P. Knapp, L. D. McKay, and S. L. Brantley (2013), Climate dependence of feldspar weathering in shale soils along a latitudinal gradient, *Geochimica et Cosmochimica Acta*, **122**, 101–126, <http://dx.doi.org/10.1016/j.gca.2013.08.001>.
-
 # Publications about IGSN #
 
+* Klump, J., Lehnert, K. A., Ulbricht, D., Devaraju, A., Elger, K., Fleischer, D., Ramdeen, S., and Wyborn, L. A. I. (2021). Towards Globally Unique Identification of Physical Samples: Governance and Technical Implementation of the IGSN Global Sample Number. Data Science Journal, 20(33), 1–16. https://doi.org/10.5334/dsj-2021-033
+
 * Bastrakova, I., J. F. Klump, B. McInnes, L. A. I. Wyborn, and A. Brown (2015), IGSN at Work in the Land Down Under: Exploiting an International Sample Identifier System to Enhance Reproducibility of Australian Geochemcial and Geochronological Data, p. IN33A–1786, San Francisco, CA.
+* Cox, S. J. D., Klump, J., & Lehnert, K. A. (2018). Connecting Scientific Data and Real-World Samples. EOS, Transactions, American Geophysical Union, 99. https://doi.org/10.1029/2018EO090337
 * Golodoniuc, P., J. F. Klump, L. A. I. Wyborn, A. Devaraju, and R. Fraser (2015), Sample Identification at Scale – Implementing IGSN in a Research Agency, p. IN33A–1785, San Francisco, CA.
 * Klump, J., and K. Lehnert (2012), Applications for unique identifiers in the geological sciences (Invited), p. GP31A–1064, American Geophysical Union, San Francisco, CA.
 * Klump, J., and K. Lehnert (2013), Use-cases and services for unique identifiers in the geological sciences, in Geophysical Research Abstracts, vol. 15, pp. EGU2013–11809, Vienna, Austria.
-* Klump, J., S. J. D. Cox, and L. A. Wyborn (2014), Connecting Geology with the Internet of Things, in Towards Unified Global Research, Melbourne, VIC, Australia.
-* Klump, J. F. (2015), Building persistent identifier systems for geoscience research – Technical solutions and community governance, San Francisco, CA.
 * Lehnert, K., and J. Klump (2008), Facilitating Research in Mantle Petrology with Geoinformatics, p. 9IKC­A­00250, Copernicus Society, Frankurt (M), Germany.
 * Lehnert, K., Y. Su, C. H. Langmuir, B. Sarbas, and U. Nohl (2000), A global geochemical database structure for rocks, Geochemistry, Geophysics, Geosystems - G (super 3), 1, 1999GC000026, doi:10.1029/1999GC000026.
 * Lehnert, K., S. Vinayagamoorthy, B. Djapic, and J. Klump (2006), The Digital Sample: Metadata, Unique Identification, and Links to Data and Publications, EOS, Transactions, American Geophysical Union, 87(52, Fall Meet. Suppl.), Abstract IN53C–07.
