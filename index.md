@@ -4,10 +4,10 @@ title: IGSN Documentation
 ---
 
 
-This wiki documents the organisation and technical aspects of the IGSN. General information about the IGSN and the IGSN Implementation Organization e.V. can be found at [http://www.igsn.org](http://www.igsn.org).
+This wiki documents the organisation and technical aspects of the IGSN. General information about the IGSN and the IGSN Organization e.V. can be found at [http://www.igsn.org](http://www.igsn.org).
 
   * [Overview](../overview): What is the IGSN is and how does it work?
-  * [Organisation and Governance](../organisation): How does the governance of IGSN work? What is the IGSN Implementation Organization e.V.?
+  * [Organisation and Governance](../organisation): How does the governance of IGSN work? What is the IGSN Organization e.V.?
   * [Membership](../membership): Which organisations are members of IGSN e.V.?
 
 # IGSN and DataCite #
