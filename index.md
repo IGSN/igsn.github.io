@@ -54,7 +54,7 @@ The IGSN registration service will facilitate the discovery, access, and sharing
   * IGSN <https://github.com/IGSN/igsn.github.io/issues> Issue Tracker and [namespace requests](..namespaces).
 
 
-# IGSN - International GeoSample Number Implementation Organization e.V. #
+# IGSN - International Generic Sample Number Organization e.V. #
 
 The IGSN eV is an international non-profit organization that aims to implement and promote standard methods for locating, identifying, and citing physical samples collected from our natural environment, by operating an international registration service for the IGSN with a distributed, sustainable infrastructure for use by and benefit to its members.
 
