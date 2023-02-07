@@ -70,7 +70,6 @@ Membership in the IGSN e.V. is open to all organizations that wish to allocate I
 
   * [Glossary](../glossary): Terms in this wiki explained.
   * [IGSN home page](http://www.igsn.org) for general information.
-  * To subscribe to the IGSN mailing list, sign up at <http://mail.igsn.org/mailman/listinfo/group_igsn.org>.
 
 
 # Contact #
