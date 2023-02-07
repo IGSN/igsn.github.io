@@ -4,15 +4,15 @@ title: IGSN e.V. Statutes
 ---
 
 
-# Statutes for an IGSN Implementation Organisation #
+# Statutes of the IGSN Organisation #
 
-Final Version of 17 June 2013
+Final Version of 25 January 2022
 
-Note: This is the English language translation of the statutes, the legally binding version is the [German language version](/media/2013-06-17-IGSN-eV-Statutes-DE.pdf) of the statutes.
+Note: This is the English language translation of the statutes, the legally binding version is the [German language version](/media/2022-01-25-IGSN-eV-Statutes-DE.pdf) of the statutes.
 
 ## § 1 Name, registered office, fiscal year ##
 
-  1. The name of the Association is "IGSN – International GeoSample Number Implementation Organization". It is to be registered in the register of associations on the basis of the German version of these Statutes; after registration, its name will be "IGSN – International GeoSample Number Implementation Organization e.V.". (Note: The Association was registered on 2012-08-31 by the Magistrate Court Potsdam, Germany. VR 8011)
+  1. The name of the Association is “IGSN – International Generic Sample Number Organization”. It is to be registered in the register of associations on the basis of the German version of these Statutes; after registration, its name will be “IGSN – International Generic Sample Number Organization e.V.”. (Note: The Association was registered on 2012-08-31 by the Magistrate Court Potsdam, Germany. VR 8011)
   2. The Association has its registered office in Potsdam, Germany.
   3. The fiscal year of the Association is the calendar year.
 
@@ -32,16 +32,16 @@ Note: This is the English language translation of the statutes, the legally bind
 
 ## § 3 Definitions ##
 
-  1. An Allocating Agent is an Institution which allocates IGSN names on behalf of the IGSN registration agency of IGSN.
-  2. The Managing Agent shall be entrusted with the operation of the IGSN Office and with the day-to-day operation of the IGSN registration Agency. The Managing Agent is appointed by the General Assembly.
+  1. An IGSN Agent is an Institution which registers IGSN identifiers on behalf of the IGSN Organization.
+  2. The Managing Agent shall be entrusted with the operation of the IGSN Office and with the day-to-day operation of the IGSN Organization. The Managing Agent is appointed by the General Assembly.
   3. The Manager is an individual recommended by the Managing Agent and approved by the Executive Board. The Manager is the Secretary of the Executive Board. In that function, the Manager prepares the meetings of the Executive Board and the General Assembly, prepares the Business Plan, the Budget, and implements all decisions taken. The Manager heads and manages the IGSN Office.
 
 
 
 ## § 4 Membership ##
 
-  1. Membership is open to all organizations who wish to allocate IGSN names and use the Registration Agency of IGSN in their capacity as allocating agents.
-  2. A member should be actively working with data centers for the purpose of issuing IGSNs.
+  1. Membership is open to all organizations who wish to register IGSN identifiers and use the IGSN Organization in their capacity as IGSN agents.
+  2. A member should be actively working with sample repositories, collections, and individuals for the purpose of registering IGSN identifiers.
   3. A member is expected to attend the General Assembly meeting. If any member fails to attend three meetings of the general assembly in a row, then this shall result in removal from the register of members according to §6(4).
 
 
@@ -57,7 +57,7 @@ Note: This is the English language translation of the statutes, the legally bind
   3. A member may be removed from the register of members by resolution of the Executive Board if it is in arrears with payment of its membership fees despite two formal written warnings. The resolution to effect its removal may be passed only after a period of two months has elapsed following the second formal warning and provided that the warning clearly stated the threat of removal from the register. The member shall be notified of the decision by the Executive Board to remove it from the register.
   4. A member must be removed from the register of members by resolution of the Executive Board if it no longer meets the membership criteria pursuant to §4.
   5. A member may be excluded from the Association by resolution of the Executive Board if it negligently or deliberately damages the interests of the Association in a gross manner. Before passing its resolution, the Executive Board shall give the member the opportunity to state its case, either orally or in writing. The reasons for the resolution passed by the Executive Board shall be stated in writing and sent to the member concerned. The member may appeal against the resolution to the General Assembly. The appeal shall be submitted to the Executive Board within one month following receipt of the resolution. Within one month after the appeal has been filed in accordance with the applicable deadline, the Executive Board shall convene the General Assembly which shall take the final decision on the exclusion of the member.
-  6. On the resignation, exclusion or removal of a member the Executive Board shall suggest to the General Assembly an Allocation Agent which could assume responsibility for the relationship to the respective Data Centers in order to continue the maintenance of the IGSN names registered by the resigned or removed member.
+  6. On the resignation, exclusion or removal of a member, the Executive Board shall suggest to the General Assembly an IGSN Agent which could assume responsibility for the relationship to the respective collections and sample repositories in order to continue the maintenance of the IGSN identifiers registered by the resigned or removed member.
 
 ## § 7 Membership fees ##
 
@@ -67,7 +67,7 @@ Note: This is the English language translation of the statutes, the legally bind
 
 ## § 8 Affiliated Members ##
 
-Affiliate Membership with an advisory function and the right to attend the General Assembly shall be restricted to organisations who do not use the Registration Agency of IGSN in their capacity as allocating agents but have an interest in the further purposes specified under §2(2). §§4 to 5 shall apply mutatis mutandis.
+Affiliate Membership with an advisory function and the right to attend the General Assembly shall be restricted to organisations who do not register IGSN identifiers in their capacity as IGSN agents but have an interest in the further purposes specified under §2(2). §§4 to 5 shall apply mutatis mutandis.
 
 ## § 9 Constituent bodies of the Association ##
 
@@ -80,7 +80,7 @@ The constituent bodies of the Association are the Executive Board and the Genera
 
 ## § 10 Executive Board ##
 
-  1. The Executive Board (the "Board" within the meaning of Sec. 26 of the German Civil Code; Bürgerliches Gesetzbuch – BGB) shall consist of the President, and two Vice Presidents (one of them being the Deputy President and one being the Treasurer). The Manager is ex officio member of the Executive Board without voting rights and acts as a secretary to the Executive Board and head of the IGSN office.
+  1. The Executive Board (the “Board” within the meaning of Sec. 26 of the German Civil Code; Bürgerliches Gesetzbuch – BGB) shall consist of the President, and two Vice Presidents (one of them being the Deputy President and one being the Treasurer). The Manager is an ex officio member of the Executive Board without voting rights and acts as a secretary to the Executive Board and head of the IGSN office.
   2. The Executive Board shall represent the Association in court and out of court.
   3. The Association shall be represented by two members of the Executive Board. The power of representation of the Executive Board shall be restricted to the effect that all transactions will not exceed the budget for that period as approved by the General Assembly. Further those exceeding a threshold of EUR 10,000.00 require direct approval of the General Assembly. In derogation from the foregoing, transactions with a value of up to EUR 1,000.00 may be entered into by the Manager acting alone, but within the budget approved by the General Assembly, for that period.
 
@@ -99,7 +99,7 @@ The constituent bodies of the Association are the Executive Board and the Genera
 
 ## § 12 Appointment and term of office of the Executive Board ##
 
-  1. The Executive Board shall be appointed by the General Assembly from among the representatives of the members of the Association for a term of two years from the date of appointment. The first terms of the vice presidents (including the Deputy President) shall be 1 year, thereafter 2 years. However, it will remain in office until a new Executive Board has been elected. Each member of the Executive Board shall be elected individually. Membership of the Executive Board is personal, no representation permitted.
+  1. The Executive Board shall be appointed by the General Assembly from among the representatives of the members of the Association for a term of two years from the date of appointment. The first terms of the vice presidents (including the Deputy President) shall be 1 year, thereafter 2 years. However, it will remain in office until a new Executive Board has been elected. Each member of the Executive Board shall be elected individually. Membership of the Executive Board is personal, no representation is permitted.
   2. Members of the Executive Board are elected from individuals put forth by member organizations. If the individual leaves the organization, then he or she also departs the post.
   3. If a member of the Executive Board resigns early, the Executive Board may appoint a successor for the remaining term of office of the departing member. Such an appointment shall be ratified by the General Assembly.
 
