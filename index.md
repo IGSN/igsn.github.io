@@ -21,7 +21,7 @@ Some key details about the partnership:
   * New and existing DataCite members will be able to adopt and start registering IGSN IDs within their existing DataCite workflows, using the IGSN Trademark.
   * IGSN Allocating Agents will join DataCite as either Direct Members or Consortium Members with Consortium Organizations.
   * Existing IGSN ID handles will now be registered IGSN ID DOIs and the handles aliased to the DOIs to ensure that these continue to resolve.
-  * IGSN e.V. will continue to maintain and grow an international ‘Samples Community of Communities’ that use persistent identifiers for samples in order to enable cohesion around the use of IGSN.
+  * IGSN e.V. will continue to maintain and grow an international 'Samples Community of Communities' that use persistent identifiers for samples in order to enable cohesion around the use of IGSN.
   * The IGSN e.V. Community of Communities will provide a space to promote adoption of FAIR and CARE principles for Physical Samples.
   * The IGSN e.V. Partnership Steering Group (IGSN PSG) will oversee the relationship described in the partnership agreement.
   * DataCite will be responsible for hosting the technical infrastructure for IGSN ID registration services and the legacy IGSN handle system. During the initial two year transition period, we will be recruiting both a Samples Community Manager and Application Support Engineer to support the transition efforts, the new hires will be supported entirely by project funds for this period.

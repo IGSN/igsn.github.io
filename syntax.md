@@ -11,24 +11,13 @@ The following is a summary of the syntax guidelines for the IGSN:
   - Organisations assigning IGSNs may choose to adopt a consistent, logical system that can be easily documented and readily understood by employees of your organization. This helps to ensure the uniqueness of assigned IGSNs and makes it easier for the task of assigning IGSNs to be passed from one employee to the next. You might therefore **consider to include existing internal identifiers** already in use within your organization.
   - Suffix nodes may be used to reflect hierarchical information or levels of granularity.  **However, in trying to keep IGSNs as short as possible, careful consideration should be taken before adopting a naming scheme that makes use of extending already existing IGSN names**.
 
+Please refer to the [DataCite Guidelines for IGSN IDs](https://support.datacite.org/docs/igsn-id-registration-guide) for further detail on the technical implementation.
 
 # Recommended Practice #
 
 Unlike many other persistent identifiers, an IGSN is used not only used by machines but also needs to be handled by humans. The labelling of sample containers prescribes a limit to the number of characters that fit on a label. Also, IGSNs in lists and tables will often need editing by humans. Long character strings increase the risk of mistypings. To reduce the risk of mistypings, the IGSN is case insensitive and we recommend to avoid characters that can easily be confused, such as ‘1’ and ‘I’, or  ‘0’ and ‘O’.
 
-Since IGSNs are intended to be combined into a URI, in order to retain maximum compatibility with [URI production rules](http://tools.ietf.org/html/rfc3986) it is suggested to limit the characters that can be used in the Code to the so-called 'unreserved' + 'reserved' set, but not allow any other or percent-encoded characters which may exist on the keyboard or other character sets (e.g. no accented characters or non-latin alphabets, no space, CR, LF characters). Using [ABNF notation](http://tools.ietf.org/html/rfc5234) the syntax proposed syntax for an IGSN is: 
-
-    <IGSN>               = <Namespace><Code>
-    <Namespace>          = UPPER                        ; namespace adminstrated by the allocating agent
-    <Code>               = CHAR                         ; 
-    UPPER                = %x41-5A                       (A-Z)
-    DIGIT                = %x30-39                       (0-9)
-    CHAR = UPPER and DIGIT
-    unreserved           = UPPER / DIGIT / "-" / "." 
-    reserved             = ":" / "/" / "?" / "#" / "[" / "]" / "@" / "!" / "$" / "&" / "'" / "(" / ")" / "*" / "+" / "," / ";" / "=" / "_" / "~"
-
-
-The [Allocating Agent](../agents) ensures that the element \<Code\> is unique within their [namespaces](../namespaces).
+Since IGSNs are intended to be combined into a URI, in order to retain maximum compatibility with [URI production rules](http://tools.ietf.org/html/rfc3986) it is suggested to limit the characters that can be used in the Code to the so-called 'unreserved' + 'reserved' set, but not allow any other or percent-encoded characters which may exist on the keyboard or other character sets (e.g. no accented characters or non-latin alphabets, no space, CR, LF characters). 
 
 Characters a-z and A-Z in the IGSN string are case insensitive (e.g. ABC is identical to AbC). It is recommended to use upper case characters in all cases. If an IGSN were registered as ABC, then abc would resolve it and a later attempt to register AbC would be rejected with an error message stating that the IGSN was already in existence. Comparison of two IGSNs (to decide if they match or not) should be done by first converting all characters 'a' - 'z' in IGSN strings to upper case, followed by octet-by-octet comparison of the entire IGSN string.
 
@@ -38,18 +27,14 @@ Characters that may be confused with digits should be avoided (I = %x49, O = %x4
 
 ## Standard IGSN Resolver ##
 
-The standard way to resolve IGSN is through http://igsn.org/<igsn>
+The standard way to resolve IGSN is through https://doi.org/
 
     Example (IGSN):        BGRB5054RX05201
-	Resulting IGSN URI:    <http://igsn.org/BGRB5054RX05201>
+	Resulting IGSN URI:    <https://doi.org/10.60510/BGRB5054RX05201>
 	
-## Native Handle.net and Alternative Resolvers ##
+## Legacy IGSN IDs ##
 
-The resolvable handle URI of an IGSN is made up of three components: a resolving service (<http://dx.doi.org> or <http://hdl.handle.net>), the IGSN Handle prefix 10273, and the IGSN, separated by a forward slash. It is concatenated by the following rule:
-
-    <resolver>/<prefix>/<igsn>
-	
-where \<resolver\>/\<prefix\> is <http://hdl.handle.net/10273> and  \<igsn\> is the value (IGSN) assigned by an [Allocating Agent](../agents). This is the native Handle.net resolver for IGSN. The example used above would be <http://hdl.handle.net/10273/BGRB5054RX05201>.
+Legacy IGSN IDs registered before 31 December 2022 following the legacy <IGSN prefix>/<igsn> pattern will continue to resolve.
 
 # IGSN Examples #
 
@@ -59,7 +44,7 @@ A sample from the Susquehanna Shale Hills Critical Zone Observatory, registered 
 	
     Example (IGSN):      SSH000SUA
 
-Applying the above rule, the resulting resulting URI is <http://igsn.org/SSH000SUA> (or using the DOI resolving service <http://dx.doi.org/10273/SSH000SUA>)
+Applying the above rule, the resulting resulting URI is <https://doi.org/10.58052/SSH000SUA>
 	
 ## Example from Geoscience Australia ##
 
@@ -67,7 +52,7 @@ A sample from the collection of Geoscience Australia.
 
     Example (IGSN):        AU1101
 
-Resulting handle URI:  <http://igsn.org/AU1101>
+Resulting handle URI:  <https://doi.org/10.60516/AU1101>
 
 ## Example from MARUM ##
 
@@ -75,15 +60,15 @@ Example from the International Scientific Continental Drilling Program (ICDP), r
 
     Example (IGSN):        MBCR5034RC57001
 	
-Resulting handle URI:  <http://igsn.org/MBCR5034RC57001>
+Resulting handle URI:  <https://doi.org/10.58095/MBCR5034RC57001>
 
 Example from the core repository of the German Federal Geological Survey (BGR), registered by MARUM on behalf of BGR:
 
     Example (IGSN):        BGRB5054RX05201
 
-Resulting handle URI:  <http://igsn.org/BGRB5054RX05201>
+Resulting handle URI:  <https://doi.org/10.60510/BGRB5054RX05201>
 	
-The sample [BGRB5054RX05201](http://hdl.handle.net/10273/BGRB5054RX05201) was derived from [ICDP5054ESYI201](http://hdl.handle.net/10273/ICDP5054ESYI201).
+The sample [BGRB5054RX05201](https://doi.org/10.60510/BGRB5054RX05201) was derived from [ICDP5054ESYI201](https://doi.org/10.60510/ICDP5054ESYI201).
 
 ## Examples from GFZ Potsdam ##
 
@@ -91,13 +76,13 @@ Example from the International Scientific Continental Drilling Program (ICDP), r
 
 	Example (IGSN):        ICDP5054ESYI201
 
-Resulting handle URI:  <http://igsn.org/ICDP5054ESYI201>
+Resulting handle URI:  <https://doi.org/10.60510/ICDP5054ESYI201>
 
 Example of assigning an IGSN to a drill hole (sampling feature):
 
     Example (IGSN):        ICDP5054EEW1001
 
-Resulting handle URI:  <http://igsn.org/ICDP5054EEW1001>
+Resulting handle URI:  <https://doi.org/10.60510/ICDP5054EEW1001>
 
 ## Example from CSIRO ##
 
@@ -105,13 +90,13 @@ Example from the collection of CSIRO at the Australian Resources Research Centre
 
     Example (IGSN):        CSRWA275
 	
-Resulting handle URI:  <http://igsn.org/CSRWA275>
+Resulting handle URI:  <https://doi.org/10.58108/CSRWA275>
 
 The above example is part of a sub-collection with its own IGSN:
 
     Example (IGSN):        CSRWASC00001
 	
-Resulting Handle URI:   <http://igsn.org/CSRWASC00001>
+Resulting Handle URI:   <https://doi.org/10.58108/CSRWASC00001>
 	
 	
 	
@@ -123,9 +108,9 @@ IGSN e.V., Allocating Agents and academic publishers ask authors to tag IGSNs in
 
 In a journal article or manuscript a sample identified by IGSN SSH000SUA may look like this (tagged IGSN):
 
-[IGSN: SSH000SUA](http://igsn.org/SSH000SUA)
+[IGSN:SSH000SUA](http://doi.org/10.58052/SSH000SUA)
 
-Tagging IGSNs in manuscripts in this way allows publishers to automatically link samples identified by IGSN to their respective descriptive pages on the web. See also <http://www.geosamples.org/news/tag> for more information about journals using IGSN.
+Tagging IGSNs in manuscripts in this way allows publishers to automatically link samples identified by IGSN to their respective descriptive pages on the web. 
 
 Since May 2017 IGSN can be included in the asset tabs of all Copernicus earth science journals. The use of IGSN is also endorsed by the [Coalition for Publishing Data in the Earth and Space Sciences](http://www.copdess.org/).
 

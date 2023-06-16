@@ -4,7 +4,7 @@ title: Namespaces
 ---
 IGSN uses a hierarchical namespace governance model to ensure uniqueness of registered IGSN.
 
-Please refer to the [list of registered IGSN namespaces](../registered).
+## This page is now obsolete and will be removed soon. ##
 
 ## Namespaces Allocation Procedure ##
 

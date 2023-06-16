@@ -3,6 +3,8 @@ layout: page
 title: Allocating Agents
 ---
 
+## The content on this page is no longer current and will be replaced soon. ##
+
 An Allocating Agent (see also the definition of an Allocating Agent given in the [statutes](../statutes) is an institution which allocates IGSN names on behalf of the IGSN registration agency of IGSN. An Allocating Agent may delegate technical functions and services to one or more sample repositories or data centres.
 
 ## Roles and Responsibilites ##

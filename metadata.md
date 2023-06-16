@@ -3,6 +3,8 @@ layout: page
 title: Metadata
 ---
 
+## The content on this page is no longer current and will be replaced soon. ##
+
 There are many things you would like to know about a sample (i.e. [metadata](../metadata)) and there is no "one size fits all" solution to this question. The metadata elements that matter will depend very much on the [community of practice](../communities) that wants to share metadata and sample catalogues.
 
 To be able to accommodate the great variety of geoscience samples, the IGSN system uses two separate sets of metadata:
