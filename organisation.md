@@ -3,6 +3,8 @@ layout: page
 title: Organisation and Governance
 ---
 
+## Note: This information is outdated and will be removed soon ##
+
 The application and long-term utility of sample­ based data is critically dependent on, availability of information (metadata) about the samples, links to other data sets derived from individual samples, and access to the samples themselves. Major problems for achieving this include incomplete documentation of samples in publications, use of ambiguous sample names, and the lack of web accessible catalogues that allows finding out about existing samples and their archiving location. Using persistent identifiers for physical samples, such as the International Geo Sample Number (IGSN), provides solutions. Read more on [how to use](../syntax) IGSN as an investigator, author, data centre, publisher ...
 
 The IGSN Implementation Organisation (IGSN e.V.) offers a system of unique persistent identifiers for samples. The objective of the IGSN e.V. is to implement and promote standard methods for locating, identifying, and citing physical samples with confidence by operating an international IGSN registration service with a distributed infrastructure for use by and benefit to its members. Each scientific community has different needs how to reference physical sample materials, yet all communities benefit from the ability to identify samples in a globally unique and persistent way.
