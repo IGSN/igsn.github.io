@@ -3,31 +3,18 @@ layout: page
 title: Allocating Agents
 ---
 
-## The content on this page is no longer current and will be replaced soon. ##
+## Registering IGSN IDs ##
 
-An Allocating Agent (see also the definition of an Allocating Agent given in the [statutes](../statutes) is an institution which allocates IGSN names on behalf of the IGSN registration agency of IGSN. An Allocating Agent may delegate technical functions and services to one or more sample repositories or data centres.
+IGSN IDs are functionally DOIs. This means that IGSN IDs can be generated and modified using DataCite systems and APIs, and are registered with metadata encoded in the DataCite Metadata Schema. Furthermore, IGSN IDs are distinguished from DOIs for other physical objects at the Repository account and prefix level, and therefore a new, separate IGSN ID Catalog Repository must be created that is exclusively for registering IGSN IDs.
 
-## Roles and Responsibilites ##
+For guidance on how to generate IGSN IDs through DataCite services, please refer to <https://support.datacite.org/docs/igsn-id-registration-guide>
 
-  * Register IGSN and [operate registration services](../system)
-  * Apply for top-level [namespaces](../namespaces) from IGSN and assign sub-namespaces to its clients
-  * Provide [OAI-PMH interfaces for metadata harvesting](../system)
+## Mapping IGSN Metadata to DataCite Metadata ##
 
-  * Follow best practices for IGSN allocation, [syntax](../syntax) and [metadata](../metadata)
-  * Ensure persistent access to the metadata record of the registered IGSN and ensure the persistence of the Allocating Agent's sample catalogue. In future, Allocating Agents will be asked to prepare a contingency plan for the case that the Allocating Agent is going out of business.
-  * [Ensure uniqueness](../namespaces) of the allocated IGSN and make best effort at avoiding co-reference of IGSNs 
-  * Participate in the [IGSN General Assembly](../statutes)
+  * coming soon
 
 
-A failure to comply with the roles and responsibilities may result in the [termination of the membership](../statutes).
+## IGSN Metadata on landing pages ##
 
-
-## Operating Allocating Agents ##
-
-  * System for Earth Sample Registration (SESAR) <http://www.geosamples.org>
-  * CSIRO Mineral Resources <http://www.csiro.au/en/Research/MRF>
-  * MARUM Centre for Marine Environmental Sciences, Univ. Bremen <http://www.marum.de>
-  * German Research Centre for Geosciences GFZ, Potsdam <http://www.gfz-potsdam.de/en/section/centre-for-scientific-drilling/>
-  * Geoscience Australia
-  * Curtin University, De Laeter Centre for Geoschemistry
+  * coming soon
   
