@@ -21,6 +21,25 @@ Since IGSN IDs are intended to be combined into a URI, in order to retain maximu
 
 Characters a-z and A-Z in the IGSN ID string are case insensitive (e.g. ABC is identical to AbC). It is recommended to use upper case characters in all cases. If an IGSN ID were registered as ABC, then abc would resolve it and a later attempt to register AbC would be rejected with an error message stating that the IGSN ID already exists.
 
+# Displaying IGSN IDs #
+
+The canonical form of an IGSN ID is a complete https://doi.org/ URL using the form: <https://doi.org/10.21384/AU1234>
+
+IGSN IDs are sometimes displayed in locations where a complete https://doi.org/ URL is not appropriate. In these cases, IGSN IDs should be displayed with only the DOI prefix and suffix or, if necessary, only the suffix.
+
+    Preferred: The DOI prefix and suffix (e.g., igsn:10.21384/AU1234)
+    Alternate: Only the suffix (e.g., igsn:AU1234)
+
+Note that the short display form should be typically preceded by an “igsn:” tag to specify that it is an IGSN ID. However, in cases where IGSN IDs are already clearly denoted, such as in the column header of a data table, the preceding “igsn:” tag may be excluded from the short display form. 
+
+Where possible, all representations of IGSN IDs should be hyperlinked with the IGSN ID’s complete DOI link.
+
+QR codes for IGSN IDs should contain the complete DOI URL. For example, <https://doi.org/10.21384/AU1234>
+
+If a QR code is applied to a sample or its container, the label should also display the IGSN ID short display form in a human-readable way.
+
+See also <https://support.datacite.org/docs/displaying-igsn-ids>
+
 # Resolving IGSN #
 
 Although some IGSN IDs may be generated according to an algorithm, it is preferable to look them up through a resolver system (see examples below), as there is no guarantee that a generated IGSN ID has been registered with DataCite or that it will resolve.
@@ -55,7 +74,7 @@ A sample from the collection of Geoscience Australia.
 
     Example (IGSN ID):        AU1101
 
-Resulting IGSN URI:  <https://doi.org/10.60516/AU1101>
+	Resulting IGSN URI:  <https://doi.org/10.60516/AU1101>
 
 ## Example from MARUM ##
 
@@ -63,13 +82,13 @@ Example from the International Scientific Continental Drilling Program (ICDP), r
 
     Example (IGSN ID):        MBCR5034RC57001
 	
-Resulting IGSN URI:  <https://doi.org/10.58095/MBCR5034RC57001>
+	Resulting IGSN URI:  <https://doi.org/10.58095/MBCR5034RC57001>
 
 Example from the core repository of the German Federal Geological Survey (BGR), registered by MARUM on behalf of BGR:
 
     Example (IGSN ID):        BGRB5054RX05201
 
-Resulting IGSN URI:  <https://doi.org/10.60510/BGRB5054RX05201>
+	Resulting IGSN URI:  <https://doi.org/10.60510/BGRB5054RX05201>
 	
 The sample [BGRB5054RX05201](https://doi.org/10.60510/BGRB5054RX05201) was derived from [ICDP5054ESYI201](https://doi.org/10.60510/ICDP5054ESYI201).
 
@@ -79,13 +98,13 @@ Example from the International Scientific Continental Drilling Program (ICDP), r
 
 	Example (IGSN ID):        ICDP5054ESYI201
 
-Resulting IGSN URI:  <https://doi.org/10.60510/ICDP5054ESYI201>
+	Resulting IGSN URI:  <https://doi.org/10.60510/ICDP5054ESYI201>
 
 Example of assigning an IGSN to a drill hole (sampling feature):
 
     Example (IGSN ID):        ICDP5054EEW1001
 
-Resulting IGSN URI:  <https://doi.org/10.60510/ICDP5054EEW1001>
+	Resulting IGSN URI:  <https://doi.org/10.60510/ICDP5054EEW1001>
 
 ## Example from CSIRO ##
 
@@ -93,7 +112,7 @@ Example from the collection of CSIRO at the Australian Resources Research Centre
 
     Example (IGSN ID):        CSRWA275
 	
-Resulting IGSN URI:  <https://doi.org/10.58108/CSRWA275>
+	Resulting IGSN URI:  <https://doi.org/10.58108/CSRWA275>
 
 The above example is part of a sub-collection with its own IGSN:
 
@@ -105,20 +124,11 @@ Resulting IGSN URI:   <https://doi.org/10.58108/CSRWASC00001>
 	
 # Using IGSNs in Manuscripts #
 
-The IGSN Organisation, Allocating Agents and academic publishers ask authors to tag IGSN IDs in their manuscripts. This will enable publishers to link the IGSN ID to the respective samples sample when the paper is published online. To tag an IGSN ID, please use the syntax
+IGSN IDs are sometimes displayed in locations where a complete https://doi.org/ URL is not appropriate. In these cases, IGSN IDs should be displayed with only the DOI prefix and suffix or, if necessary, only the suffix.
 
-    IGSN:<IGSN ID> 
+    Preferred: The DOI prefix and suffix (e.g., igsn:10.21384/AU1234)
+    Alternate: Only the suffix (e.g., igsn:AU1234)
 
-In a journal article or manuscript a sample identified by IGSN ID SSH000SUA may look like this (tagged IGSN):
-
-[IGSN:SSH000SUA](http://doi.org/10.58052/SSH000SUA)
-
-Tagging IGSNs in manuscripts in this way allows publishers to automatically link samples identified by IGSN to their respective descriptive pages on the web. 
+Note that the short display form should be typically preceded by an “igsn:” tag to specify that it is an IGSN ID. However, in cases where IGSN IDs are already clearly denoted, such as in the column header of a data table, the preceding “igsn:” tag may be excluded from the short display form. 
 
 Since May 2017 IGSN IDs can be included in the asset tabs of all Copernicus earth science journals. The use of IGSN IDs is also endorsed by the [Coalition for Publishing Data in the Earth and Space Sciences](http://www.copdess.org/).
-
-An example of a publication using live IGSN IDs can be found here:
-
-  * Dere, A. L., T. S. White, R. H. April, B. Reynolds, T. E. Miller, E. P. Knapp, L. D. McKay, and S. L. Brantley (2013), Climate dependence of feldspar weathering in shale soils along a latitudinal gradient, *Geochimica et Cosmochimica Acta*, **122**, 101–126, <http://dx.doi.org/10.1016/j.gca.2013.08.001>.
-
-  
