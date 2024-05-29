@@ -1,9 +1,9 @@
----
+ic---
 layout: page
 title: Impressum
 ---
 
-Herausgeber: International Geo Sample Implementation Organization IGSN e.V.
+Herausgeber: International Generic Sample Number Organization IGSN e.V.
 
 ## 1. Inhalt des Onlineangebotes ##
 
@@ -11,7 +11,7 @@ Die International Generic Sample Number Organization IGSN e.V. übernimmt keiner
 
 ## 2. Verweise und Links ##
 
-Bei direkten oder indirekten Verweisen auf fremde Internetseiten ("Links"), die außerhalb des Verantwortungsbereiches der International Geo Sample Implementation Organization IGSN e.V. (igsn.github.io) liegen, würde eine Haftungsverpflichtung ausschließlich in dem Fall in Kraft treten, in dem die International Generic Sample Number Organization IGSN e.V. von den Inhalten Kenntnis hat und es ihm technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.
+Bei direkten oder indirekten Verweisen auf fremde Internetseiten ("Links"), die außerhalb des Verantwortungsbereiches der International Generic Sample Number Organization IGSN e.V. (igsn.github.io) liegen, würde eine Haftungsverpflichtung ausschließlich in dem Fall in Kraft treten, in dem die International Generic Sample Number Organization IGSN e.V. von den Inhalten Kenntnis hat und es ihm technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.
 
 Die International Generic Sample Number Organization IGSN e.V. erklärt daher ausdrücklich, dass zum Zeitpunkt der Linksetzung keine illegalen Inhalte auf der zu verlinkenden Seite erkennbar waren. Die International Geo Sample Implementation Organization IGSN e.V. hat keinerlei Einfluss auf die aktuelle und zukünftige Gestaltung und auf die Inhalte der verknüpften Seiten. Deshalb distanziert es sich hiermit ausdrücklich von allen Inhalten aller verknüpften Seiten, die nach der Linksetzung verändert wurden. Diese Feststellung gilt für alle innerhalb des eigenen Internetangebotes gesetzten Links und Verweise sowie für Fremdeinträge in von der International Generic Sample Number Organization IGSN e.V. eingerichteten Gästebüchern,Diskussionsforen und Mailinglisten. Für illegale, fehlerhafte oder unvollständige Inhalte und insbesondere für Schäden, die aus der Nutzung oder Nichtnutzung solcherart dargebotener Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der über Links auf die jeweilige Veröffentlichung lediglich verweist.
 
